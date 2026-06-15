@@ -43,10 +43,11 @@ volumen sin intermediarios. Esta explicación consta en prensa que la
 cita; no se localizó un boletín oficial de SuperISSSTE/ISSSTE que la
 sostenga literalmente. (Declaración reportada por prensa.)
 
-**Abril 2026 — Condiciones de venta verificadas en campo.** Reporteo en
-tienda constata el precio cercano a 19.90 por bolsa de un kilo, junto con
-disponibilidad limitada y un tope de dos bolsas por persona. (Medición
-periodística en campo.)
+**16 de abril de 2026 — Condiciones de venta verificadas en campo.**
+Reporteo en tienda constata el precio de 19.90 por bolsa de un kilo y un
+tope de dos bolsas por persona, con calidad heterogénea del producto en
+piso de venta. (Medición periodística en campo — El Universal, 16 de
+abril de 2026.)
 
 **Marzo–junio 2026 — La solicitud de transparencia.** La periodista
 Pamela Cerdeira solicita vía Plataforma Nacional de Transparencia a
