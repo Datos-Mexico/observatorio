@@ -268,8 +268,8 @@ Abasto por producto procedente de Puebla o Sinaloa. La plaza en que
 SuperISSSTE compra el jitomate y el origen del producto que vende no
 son necesariamente Iztapalapa, Puebla ni Sinaloa: **eso forma parte de
 lo que permanece desconocido**, y es precisamente lo que la solicitud
-PNT de Pamela Cerdeira preguntó y SuperISSSTE negó invocando "secreto
-comercial" (apartado 6.1). Con esa salvedad nombrada, el contraste se
+PNT preguntó y SuperISSSTE negó invocando "secreto comercial"
+(apartado 6.1). Con esa salvedad nombrada, el contraste se
 mantiene en todo su peso: **en los niveles y plazas que sí son
 públicos, el precio de venta al consumidor en SuperISSSTE el
 15-abr-2026 estuvo por debajo del piso del mayoreo del mismo día**. El
@@ -287,14 +287,14 @@ https://www.ejecentral.com.mx/nuestro-eje/dunia-ludlow-quien-es-la-exdiputada-de
 
 ### 5. Solicitud de transparencia y respuesta institucional
 
-**5.1 — Solicitud de Pamela Cerdeira al SuperISSSTE vía Plataforma
-Nacional de Transparencia.**
-Pamela Cerdeira presentó una solicitud a través de la Plataforma
-Nacional de Transparencia (PNT) dirigida al SuperISSSTE, preguntando a
-quién y a qué precio compraba el jitomate.
+**5.1 — Solicitud al SuperISSSTE vía Plataforma Nacional de
+Transparencia.**
+Una solicitud presentada a través de la Plataforma Nacional de
+Transparencia (PNT) se dirigió al SuperISSSTE, preguntando a quién y
+a qué precio compraba el jitomate.
 
-**5.2 — Cronología institucional reportada por la periodista.**
-Según el testimonio público y firmado de Cerdeira:
+**5.2 — Cronología institucional reportada por el testimonio público.**
+Según el testimonio público y firmado en Opinión 51:
 
 1. SuperISSSTE pidió prórroga para responder.
 2. Meses después emitió respuesta negativa.
@@ -302,14 +302,14 @@ Según el testimonio público y firmado de Cerdeira:
    constituía "secretos comerciales".
 
 *Etiqueta de 5.1 y 5.2:* Testimonio.
-*Fuente primaria del testimonio:* columna firmada por Pamela Cerdeira
-titulada "Yo solo quería saber el precio del jitomate", publicada en
-Opinión 51 el 9 de junio de 2026.
+*Fuente primaria del testimonio:* columna firmada titulada "Yo solo
+quería saber el precio del jitomate", publicada en Opinión 51 el 9 de
+junio de 2026.
 https://www.opinion51.com/pamela-cerdeira-2606-precio-jitomate/
 
 *Nota sobre la naturaleza del registro.* Lo verificable hoy es el
-testimonio firmado de la periodista sobre lo que ella pidió y lo que
-SuperISSSTE le respondió. El documento oficial de la negativa (folio
+testimonio firmado en Opinión 51 sobre lo que se pidió y lo que
+SuperISSSTE respondió. El documento oficial de la negativa (folio
 PNT, número de oficio, fechas exactas de la prórroga y de la
 resolución) no se ha localizado como artefacto público; está declarado
 en la Parte 2.
@@ -326,8 +326,7 @@ datos públicos. La dependencia se negó a entregarlos invocando "secreto
 comercial".
 
 *Naturaleza del registro de la negativa.* El registro disponible es el
-testimonio público y firmado de Pamela Cerdeira en Opinión 51 (apartado
-5). No es, hasta el cierre de la Etapa 1, expediente oficial PNT con
+testimonio público y firmado en Opinión 51 (apartado 5). No es, hasta el cierre de la Etapa 1, expediente oficial PNT con
 folio y oficio accesibles públicamente. La pretensión de anclar la
 negativa al expediente oficial sigue abierta y figura en los pendientes
 heredados (apartado 7.1).
@@ -348,9 +347,9 @@ semana (apartado 2.3 y `FUENTES.md` §5).
 
 **Vigente:**
 
-**7.1 — Folio PNT de la solicitud de Pamela Cerdeira.**
-No consta en la porción accesible de su columna. Si la autora comparte
-el folio, el expediente público puede consultarse en
+**7.1 — Folio PNT de la solicitud.**
+No consta en la porción accesible de la columna. Si el folio llega
+por gestión humana, el expediente público puede consultarse en
 https://www.plataformadetransparencia.org.mx/ y la negativa por
 "secreto comercial" podría anclarse al oficio oficial en lugar de al
 testimonio firmado. Mientras eso no ocurra, el registro de la negativa

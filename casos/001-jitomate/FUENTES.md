@@ -404,16 +404,16 @@ para el periodo relevante. El más cercano que se localizó:
 
 ---
 
-## Hito 4 — Solicitud de transparencia de Pamela Cerdeira y negativa de SuperISSSTE
+## Hito 4 — Solicitud de transparencia ante SuperISSSTE y negativa por "secreto comercial"
 
-**Estado: confirmado como testimonio público de la periodista. El
-documento oficial de la respuesta (oficio/folio) no es público.**
+**Estado: confirmado como testimonio público firmado. El documento
+oficial de la respuesta (oficio/folio) no es público.**
 
-### 4.1 Columna en Opinión 51 — fuente primaria (testimonio de la periodista)
+### 4.1 Columna en Opinión 51 — fuente primaria (testimonio firmado)
 
 - **URL canónica:** https://www.opinion51.com/pamela-cerdeira-2606-precio-jitomate/
 - **Título:** "Yo solo quería saber el precio del jitomate".
-- **Autora:** Pamela Cerdeira.
+- **Atribución:** columna firmada en Opinión 51.
 - **Medio:** Opinión 51.
 - **Fecha de publicación:** 9 de junio de 2026.
 - **Acceso:** introducción pública; el cuerpo completo de la columna está
@@ -421,8 +421,9 @@ documento oficial de la respuesta (oficio/folio) no es público.**
 
 ### 4.2 Contenido reportado por la columna (en la porción pública)
 
-- Cerdeira presentó una solicitud a través de la **Plataforma Nacional de
-  Transparencia (PNT)** dirigida al SuperISSSTE.
+- La columna reporta que una solicitud presentada a través de la
+  **Plataforma Nacional de Transparencia (PNT)** se dirigió al
+  SuperISSSTE.
 - La solicitud preguntó "a quién y en cuánto le compraba el jitomate" el
   SuperISSSTE.
 - Cronología de la respuesta institucional:
@@ -436,23 +437,23 @@ documento oficial de la respuesta (oficio/folio) no es público.**
 - **No encontrado** en la porción pública de la columna: el folio de la
   solicitud PNT, el número de oficio de respuesta, ni las fechas exactas
   de la prórroga y de la negativa.
-- **Calificación:** lo verificable hoy es el testimonio público y firmado
-  de Pamela Cerdeira sobre lo que ella pidió y lo que SuperISSSTE le
-  respondió. El documento oficial PNT (folio, oficio, texto íntegro de la
-  resolución de SuperISSSTE) no se ha podido localizar como artefacto
-  público citable. Si el caso requiere anclar la negativa al documento
-  oficial, ese paso queda pendiente como gestión propia (acceder al portal
-  PNT con el folio si la autora lo comparte, o solicitar copia de la
-  resolución).
+- **Calificación:** lo verificable hoy es el testimonio público y
+  firmado en Opinión 51 sobre lo que se pidió y lo que SuperISSSTE
+  respondió. El documento oficial PNT (folio, oficio, texto íntegro de
+  la resolución de SuperISSSTE) no se ha podido localizar como
+  artefacto público citable. Si el caso requiere anclar la negativa al
+  documento oficial, ese paso queda pendiente como gestión propia
+  (acceder al portal PNT con el folio si llega por gestión humana, o
+  solicitar copia de la resolución).
 
 ### 4.4 Síntesis del hito 4
 
-- **Confirmado:** existe una columna firmada por Pamela Cerdeira el 9 de
-  junio de 2026 en Opinión 51 que narra su solicitud al SuperISSSTE vía
-  PNT y la negativa por "secretos comerciales".
+- **Confirmado:** existe una columna firmada del 9 de junio de 2026
+  en Opinión 51 que narra la solicitud al SuperISSSTE vía PNT y la
+  negativa por "secretos comerciales".
 - **No encontrado:** el documento oficial PNT (folio, oficio, fecha
   exacta de la prórroga, fecha exacta de la negativa) como artefacto
-  público auditable independiente del testimonio de la periodista.
+  público auditable independiente del testimonio.
 
 ---
 
@@ -582,8 +583,8 @@ encuestado entre el peso del empaque, sin factores ocultos.
   y muy por debajo del rango de bola ($75/kg). La plaza en que
   SuperISSSTE compra el jitomate y el origen del producto que vende
   no son necesariamente Iztapalapa, Puebla ni Sinaloa: ese es
-  justamente el dato que la solicitud PNT de Pamela Cerdeira (Hito 4)
-  preguntó y SuperISSSTE negó invocando "secreto comercial". El
+  justamente el dato que la solicitud PNT (Hito 4) preguntó y
+  SuperISSSTE negó invocando "secreto comercial". El
   inventario registra el dato; no atribuye causa.
 
 ---
@@ -607,8 +608,8 @@ encuestado entre el peso del empaque, sin factores ocultos.
 | 3 | Calidad/disponibilidad limitada en tienda (jitomates no maduros) | El Universal (16-abr-2026), verificación en campo | Confirmado |
 | 3 | Modelo "sin intermediarios" como estrategia ratificada por la directora | Heraldo (17-abr-2026) | Sugerido |
 | 3 | Boletín oficial SuperISSSTE/ISSSTE que cite textualmente la cifra 19.90 y el modelo sin intermediarios | — | No encontrado |
-| 4 | Columna de Pamela Cerdeira en Opinión 51, 9-jun-2026 | Opinión 51 (primaria del testimonio) | Confirmado |
-| 4 | Negativa de SuperISSSTE a la solicitud PNT por "secretos comerciales" | Testimonio firmado de la periodista | Confirmado como testimonio |
+| 4 | Columna firmada en Opinión 51, 9-jun-2026 | Opinión 51 (primaria del testimonio) | Confirmado |
+| 4 | Negativa de SuperISSSTE a la solicitud PNT por "secretos comerciales" | Testimonio firmado en Opinión 51 | Confirmado como testimonio |
 | 4 | Folio PNT, número de oficio y fechas exactas de la respuesta de SuperISSSTE | — | No encontrado en fuente pública |
 
 ---
@@ -625,9 +626,9 @@ encuestado entre el peso del empaque, sin factores ocultos.
   entrevista "Haz patria y ahorra" en YouTube
   (https://www.youtube.com/watch?v=FORFmUaI5BI) como fuente primaria
   suplementaria para sus declaraciones sobre el modelo sin intermediarios.
-- Si se obtiene el folio PNT de Pamela Cerdeira, acceder al expediente
-  público en https://www.plataformadetransparencia.org.mx/ para anclar la
-  negativa al documento oficial y no solo al testimonio.
+- Si se obtiene el folio PNT de la solicitud, acceder al expediente
+  público en https://www.plataformadetransparencia.org.mx/ para anclar
+  la negativa al documento oficial y no solo al testimonio.
 - Buscar el monitoreo Profeco específico de jitomate (la "ficha de
   jitomate" suelta) si existe un PDF distinto al de canasta básica que
   incluya SuperISSSTE.

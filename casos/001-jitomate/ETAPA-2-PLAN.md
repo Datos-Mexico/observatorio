@@ -41,7 +41,7 @@ cuando el inventario heredado los marca como tales.
 
 - Todo lo confirmado contra fuente primaria oficial: versiones
   estenográficas de Presidencia, boletines Profeco como PDF estático,
-  columna firmada de Pamela Cerdeira.
+  columna firmada publicada en Opinión 51.
 - Todo lo confirmado por verificación periodística en campo: la nota de
   El Universal del 16 de abril de 2026 sobre piso de venta SuperISSSTE.
 - La frontera explícita de lo desconocido: a quién y a qué precio compra
@@ -70,11 +70,11 @@ la Etapa 2 como pendientes heredados.
   íntegro al equipo. Si se recupera, agregar la cita literal al
   inventario de FUENTES.md y promover el rango "19.90–70 pesos" de
   pendiente a confirmado.
-- **Anclar la negativa de SuperISSSTE al expediente PNT.** Si Pamela
-  Cerdeira comparte el folio de su solicitud, acceder al expediente
-  público en https://www.plataformadetransparencia.org.mx/ y registrar
-  el oficio de respuesta como fuente primaria, no solo como testimonio
-  firmado de la columnista.
+- **Anclar la negativa de SuperISSSTE al expediente PNT.** Si el
+  folio de la solicitud llega por gestión humana, acceder al
+  expediente público en https://www.plataformadetransparencia.org.mx/
+  y registrar el oficio de respuesta como fuente primaria, no solo
+  como testimonio firmado de la columna.
 
 ## 5. Reglas de método que NO se reabren
 
@@ -102,9 +102,10 @@ explícita y documentada:
   de agente, PR contra `main`, reportar URL. No hay push directo a
   `main`, ni siquiera para documentos de bitácora; el régimen del repo
   lo bloquea por construcción.
-- **Las acciones irreversibles sobre lo publicado y sobre el envío a
-  Pamela Cerdeira requieren visto bueno humano explícito**, conforme al
-  `PROTOCOLO-PRENSA`. Esta restricción no se levanta en la Etapa 2.
+- **Las acciones irreversibles sobre lo publicado y sobre el envío
+  del material conforme al protocolo requieren visto bueno humano
+  explícito**, conforme al `PROTOCOLO-PRENSA`. Esta restricción no
+  se levanta en la Etapa 2.
 
 ---
 
