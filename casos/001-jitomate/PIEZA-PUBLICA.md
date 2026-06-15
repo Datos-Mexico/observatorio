@@ -117,11 +117,12 @@ campo en una cadena específica. Coincide numéricamente con el
 registro 2.1, pero es un hecho distinto: el de 2.1 es una cota
 nacional, el de 2.2 es una observación de campo en una tienda.
 
-### 2.3 Reportería de La Jornada — mercados y supermercados de la CDMX, 15 de abril de 2026
+### 2.3 Reportería de La Jornada — mercados y supermercados de la CDMX (observaciones del 14 de abril, publicadas el 15 de abril de 2026)
 
-La sección Capital de La Jornada publicó, el 15 de abril de 2026
-(página 31 de la edición impresa), reportería propia bajo el
-titular literal:
+La sección Capital de La Jornada publicó, el miércoles 15 de abril
+de 2026 (página 31 de la edición impresa), reportería propia sobre
+las observaciones del día anterior (14 de abril), bajo el titular
+literal:
 
 > "Sufre altibajos el precio del jitomate; oscila de 19.90 a 70
 > pesos el kilogramo."
@@ -132,10 +133,17 @@ al sitio del medio y captura del Wayback Machine cruzadas
 byte-a-byte), registra para el 14 de abril de 2026 los siguientes
 precios por kilogramo en establecimientos de la CDMX:
 
-- **SuperISSSTE:** $19.90 (constatado en dos tiendas: Manuel Tolsá
-  y Enrico Martínez, y La Ciudadela, ambas en la colonia Centro,
-  alcaldía Cuauhtémoc; en una de ellas el anaquel estuvo vacío y
-  permanecía la hoja del precio).
+- **SuperISSSTE:** $19.90, constatado por la reportería en dos
+  tiendas de la colonia Centro, alcaldía Cuauhtémoc, con
+  observaciones distintas en cada una:
+  - **SuperISSSTE Manuel Tolsá y Enrico Martínez:** la nota
+    constata el precio del producto, "aunque el anaquel estuvo
+    vacío ayer" (es decir, el 14 de abril).
+  - **SuperISSSTE La Ciudadela:** la nota describe el
+    establecimiento ese mismo 14 de abril como "sin ningún rastro
+    del producto", y registra que "aún permanecía ayer la hoja
+    del precio que ofertaba el kilo de jitomate a 19 pesos con 90
+    centavos".
 - **Walmart:** $59.
 - **Soriana Híper y Chedraui:** $49.
 - **Mercado 2 de Abril (colonia Guerrero):** $60 a $70.
@@ -184,16 +192,19 @@ verificación de El Universal:
 *Etiqueta:* medición de mayoreo en Central de Abasto, fuente
 primaria oficial.
 
-### 2.6 Contraste menudeo vs mayoreo del 15 de abril, con su salvedad
+### 2.6 Contraste menudeo SuperISSSTE vs mayoreo SNIIM en días contiguos de abril, con su salvedad
 
-El precio **$19.90** registrado en SuperISSSTE el 15 de abril es
+El precio **$19.90** registrado en piso de venta de SuperISSSTE
+por La Jornada para el **14 de abril** (publicado al día siguiente)
+y reverificado en campo por El Universal el **16 de abril** es
 **menudeo en tienda al consumidor final**. El piso del **rango
-mayorista** de tomate saladette de primera registrado el mismo día
-en la Central de Abasto de Iztapalapa fue **$23.08 por kilogramo,
-con orígenes nombrados por SNIIM como Puebla y Sinaloa**. Son **dos
-niveles de mercado distintos**: el primero es precio al público en
-una cadena minorista; el segundo es precio mayorista pagado en la
-Central de Abasto por producto procedente de Puebla o Sinaloa.
+mayorista** de tomate saladette de primera registrado por SNIIM el
+**15 de abril** en la Central de Abasto de Iztapalapa fue **$23.08
+por kilogramo, con orígenes nombrados por SNIIM como Puebla y
+Sinaloa**. Son **dos niveles de mercado distintos**: el primero es
+precio al público en una cadena minorista; el segundo es precio
+mayorista pagado en la Central de Abasto por producto procedente
+de Puebla o Sinaloa.
 
 **Salvedad nombrada.** La plaza en que SuperISSSTE compra el
 jitomate y el origen del producto que vende **no son necesariamente**
@@ -204,10 +215,11 @@ transparencia a SuperISSSTE preguntó y SuperISSSTE negó invocando
 
 Con esa salvedad nombrada, el contraste se mantiene en sus
 propios términos: **en los niveles y plazas que sí son públicos,
-el precio de venta al consumidor en SuperISSSTE el 15 de abril de
-2026 estuvo por debajo del piso del mayoreo registrado por SNIIM
-ese mismo día.** El observatorio registra el hecho; no atribuye
-causa.
+las dos observaciones independientes del precio de venta al
+consumidor en SuperISSSTE —La Jornada el 14 de abril, El Universal
+el 16 de abril— quedaron por debajo del piso del mayoreo registrado
+por SNIIM el 15 de abril.** El observatorio registra el hecho; no
+atribuye causa.
 
 ---
 
@@ -274,30 +286,81 @@ recibe.
 
 ### 3.3 Las preguntas que ese encuentro deja abiertas
 
+El observatorio formula las preguntas ancladas en los deberes que
+el régimen general de clasificación (Título Sexto de la LGTAIP)
+impone con claridad sobre todo sujeto obligado que niega acceso a
+la información, sin distinción entre clasificación por reserva y
+clasificación por confidencialidad. Una de las preguntas —la
+relativa al alcance de la prueba de daño del artículo 107 frente
+al supuesto de confidencialidad del artículo 115— se formula como
+cuestión abierta en sí misma, porque el propio texto consolidado
+de la ley no la resuelve de modo unívoco.
+
+#### 3.3.1 Preguntas ancladas en los deberes generales del régimen de clasificación
+
 - ¿Bajo qué razonamiento una adquisición que un sujeto obligado
   paga con presupuesto público quedaría comprendida dentro de la
   figura de información confidencial del artículo 115, cuyo texto
   acota expresamente el secreto comercial a los casos en que la
   titularidad no involucre "el ejercicio de recursos públicos"?
-- ¿La respuesta de SuperISSSTE acompañó la negativa de una
-  **prueba de daño** con los tres elementos del artículo 107 de la
-  LGTAIP —riesgo real, demostrable e identificable; riesgo superior
-  al interés público general de que se difunda; limitación adecuada
-  al principio de proporcionalidad y al medio menos restrictivo
-  disponible—?
-- ¿La respuesta satisfizo el deber de **fundamentación y
-  motivación** del artículo 106 —señalando razones, motivos o
-  circunstancias especiales que justifiquen la subsunción del caso
-  particular en la norma invocada como fundamento— y la **carga
-  de la prueba** del artículo 108, ambas a cargo del sujeto
-  obligado?
+- ¿La respuesta de SuperISSSTE aplicó la excepción al derecho de
+  acceso **"de manera restrictiva y limitada"** y **acreditó su
+  procedencia**, conforme al deber que el artículo 102 impone
+  sobre todas las excepciones previstas en el Título Sexto y que
+  el primer párrafo del artículo 108 reitera en los mismos
+  términos?
+- ¿La negativa señaló **"las razones, motivos o circunstancias
+  especiales que llevaron al sujeto obligado a concluir que el
+  caso particular se ajusta al supuesto previsto por la norma
+  legal invocada como fundamento"**, conforme al artículo 106?
 - ¿El **Comité de Transparencia** del sujeto obligado confirmó,
-  modificó o revocó la clasificación con arreglo al artículo 106?
+  modificó o revocó la decisión de clasificación, conforme al
+  primer párrafo del artículo 106, que ordena su intervención en
+  todos los casos en que se niega el acceso por actualizarse algún
+  supuesto de clasificación?
 - ¿La respuesta informó a la persona solicitante de la procedencia
-  del **recurso de revisión** y del plazo de quince días del
-  artículo 144?
+  del **recurso de revisión** y del plazo de quince días previsto
+  en el artículo 144?
 - ¿Se interpuso, en su caso, recurso de revisión ante la Autoridad
   garante federal, y cuál fue su trámite?
+
+#### 3.3.2 Cuestión abierta sobre el alcance de la prueba de daño frente a la confidencialidad
+
+El régimen específico de la **prueba de daño** está enunciado en
+el artículo 107 de la LGTAIP vigente, cuyos tres elementos son
+criterio explícito del legislador para la clasificación: que la
+divulgación represente "un riesgo real, demostrable e
+identificable de perjuicio significativo al interés público o a
+la seguridad nacional"; que ese riesgo "supera el interés público
+general de que se difunda"; y que la limitación "se adecua al
+principio de proporcionalidad y representa el medio menos
+restrictivo disponible para evitar el perjuicio".
+
+El artículo 107 está colocado por el legislador dentro del régimen
+de clasificación de información que el Capítulo II del Título
+Sexto denomina **información reservada**. El artículo 113 ordena
+expresamente que "las causales de reserva previstas en el artículo
+anterior se deberán fundar y motivar, a través de la aplicación
+de la prueba de daño". El secreto comercial del artículo 115, por
+su parte, vive en el régimen de **información confidencial**
+(Capítulo III) del mismo Título Sexto.
+
+Cuando un sujeto obligado clasifica información por la vía del
+artículo 115, **¿le es exigible el estándar específico de la prueba
+de daño del artículo 107?** El propio texto consolidado vigente de
+la LGTAIP no resuelve la cuestión de modo unívoco: el 107 es
+literal sobre la reserva, y el 102 ordena en general que las
+excepciones al derecho de acceso se apliquen "de manera
+restrictiva y limitada" y que el sujeto obligado "acredite su
+procedencia", sin pronunciarse sobre si el estándar técnico de la
+prueba de daño se traslada también a la confidencialidad. Esta es,
+en sí misma, una pregunta abierta que el caso plantea. El
+observatorio la nombra y la deja abierta.
+
+Subordinada a esa primera cuestión, queda la pregunta de hecho:
+**si el estándar del artículo 107 es exigible a una negativa que
+clasifica por confidencialidad, ¿lo satisfizo la respuesta de
+SuperISSSTE?**
 
 ### 3.4 Estado institucional bajo el que se sustanciaría una inconformidad
 
