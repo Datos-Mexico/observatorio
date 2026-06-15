@@ -254,11 +254,26 @@ Profeco de fines de marzo (apartado 2.1). Las tres ocurrencias del
 19.90 son registros distintos —monitoreo periodístico en varios
 establecimientos, observación de campo en una tienda específica, cota
 estadística sobre el mercado nacional— y la distinción se preserva por
-método. La coincidencia numérica no las colapsa. El precio 19.90 de
-SuperISSSTE se ubica además **por debajo del piso del rango mayorista
-de tomate saladette en la Central de Abasto de Iztapalapa el mismo
-día** (apartado 2.3: $23.08–$43.33). El dossier registra el hecho; no
-atribuye causa.
+método. La coincidencia numérica no las colapsa.
+
+*Contraste entre el menudeo SuperISSSTE y el mayoreo SNIIM del mismo
+día.* El precio 19.90 de SuperISSSTE es **menudeo en tienda al
+consumidor final**. El piso del rango mayorista de tomate saladette
+registrado el mismo 15-abr-2026 por SNIIM en la **Central de Abasto de
+Iztapalapa** fue **$23.08 por kilogramo, con orígenes nombrados por
+SNIIM como Puebla y Sinaloa** (apartado 2.3). Son **dos niveles de
+mercado distintos**: el 19.90 es precio de venta al público en una
+cadena minorista; el 23.08 es precio mayorista pagado en la Central de
+Abasto por producto procedente de Puebla o Sinaloa. La plaza en que
+SuperISSSTE compra el jitomate y el origen del producto que vende no
+son necesariamente Iztapalapa, Puebla ni Sinaloa: **eso forma parte de
+lo que permanece desconocido**, y es precisamente lo que la solicitud
+PNT de Pamela Cerdeira preguntó y SuperISSSTE negó invocando "secreto
+comercial" (apartado 6.1). Con esa salvedad nombrada, el contraste se
+mantiene en todo su peso: **en los niveles y plazas que sí son
+públicos, el precio de venta al consumidor en SuperISSSTE el
+15-abr-2026 estuvo por debajo del piso del mayoreo del mismo día**. El
+dossier registra el hecho; no atribuye causa.
 
 ### 4. Identidad institucional de SuperISSSTE
 

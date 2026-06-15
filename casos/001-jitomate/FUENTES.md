@@ -569,11 +569,22 @@ encuestado entre el peso del empaque, sin factores ocultos.
   cadenas (SuperISSSTE, Walmart, Soriana, Chedraui) y en un mercado
   público específico (Mercado 2 de Abril); SNIIM registra el precio
   mayorista en la Central de Abasto.
-- **Sobre el 19.90 SuperISSSTE.** El precio reportado en SuperISSSTE
-  (19.90 pesos/kg en los apartados 3.3 y 3.4) se ubica **por debajo
-  del piso del rango mayorista de saladette en Iztapalapa** del mismo
-  día (23.08 pesos/kg) y muy por debajo del rango de bola
-  (75 pesos/kg). El inventario registra el dato; no atribuye causa.
+- **Sobre el 19.90 SuperISSSTE — qué se compara con qué.** El precio
+  reportado en SuperISSSTE (19.90 pesos/kg en los apartados 3.3 y 3.4)
+  es **menudeo al consumidor final en tienda**. El piso del rango
+  mayorista SNIIM del mismo día (23.08 pesos/kg para tomate saladette
+  en la Central de Abasto de Iztapalapa, **orígenes Puebla y Sinaloa
+  según el propio registro SNIIM**) es **mayoreo en central de
+  abasto**, transacción entre productor o intermediario y comprador
+  mayorista. Son dos niveles de mercado distintos. Con esa salvedad
+  nombrada, el precio de venta al consumidor en SuperISSSTE se ubica
+  **por debajo del piso del mayoreo del mismo día** —para saladette,
+  y muy por debajo del rango de bola ($75/kg). La plaza en que
+  SuperISSSTE compra el jitomate y el origen del producto que vende
+  no son necesariamente Iztapalapa, Puebla ni Sinaloa: ese es
+  justamente el dato que la solicitud PNT de Pamela Cerdeira (Hito 4)
+  preguntó y SuperISSSTE negó invocando "secreto comercial". El
+  inventario registra el dato; no atribuye causa.
 
 ---
 
