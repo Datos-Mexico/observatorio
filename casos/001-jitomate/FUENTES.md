@@ -192,16 +192,124 @@ Ludlow Deloya**. El cargo se confirma en perfiles publicados:
     papa y limón, así como agroindustrias, comercializadoras grandes y
     cadenas de supermercados.
 
-### 3.3 Nota de La Jornada del 15 de abril de 2026 — fuente secundaria
+### 3.3 Nota de La Jornada del 15 de abril de 2026 — titular literal anclado vía índice público de buscadores; cuerpo íntegro pendiente
 
-- **URL:** https://www.jornada.com.mx/2026/04/15/capital/031n2cap
-- **Fecha:** 15 de abril de 2026.
-- **Titular:** "Sufre altibajos el precio del jitomate; oscila de 19.90 a
-  70 pesos el kilogramo."
-- **Acceso a contenido:** la URL devolvió 403 al momento de la consulta;
-  el titular y la cita del rango 19.90–70 están confirmados desde
-  metadatos de búsqueda. Pendiente recuperación íntegra para validar
-  contra-cita.
+- **URL canónica:** https://www.jornada.com.mx/2026/04/15/capital/031n2cap
+- **Medio:** La Jornada, sección Capital (CDMX).
+- **Fecha de publicación:** miércoles 15 de abril de 2026.
+- **Fecha de consulta (Etapa 1):** 14 de junio de 2026.
+- **Fecha de consulta ampliada (cierre Etapa 2):** 14 de junio de 2026.
+
+#### 3.3.1 Estado del anclaje al cierre de la Etapa 2
+
+- **Titular literal: confirmado.**
+
+  > "Sufre altibajos el precio del jitomate; oscila de 19.90 a 70 pesos
+  > el kilogramo."
+
+  Anclaje: índice público de buscadores. El titular aparece con
+  redacción literal idéntica en consultas independientes al índice de
+  Google (entre ellas las formulaciones `"Sufre altibajos el precio del
+  jitomate" Jornada` y `site:jornada.com.mx "19.90" "70 pesos" jitomate
+  abril 2026`), con atribución expresa al medio (La Jornada), sección
+  (Capital), fecha (15 de abril de 2026) y URL canónica
+  (`/2026/04/15/capital/031n2cap`).
+
+- **Cuerpo íntegro: pendiente.** La URL canónica sigue devolviendo 403 a
+  clientes automatizados. El cuerpo íntegro de la nota no se ha leído
+  de primera mano en esta indagación. Las vías técnicas que podrían
+  permitir esa lectura están enumeradas más abajo como "no agotadas".
+
+#### 3.3.2 Contenido del cuerpo derivado de snippets indexados
+
+Lo siguiente proviene de los snippets que el índice de buscadores
+expone del HTML servido por La Jornada para esta URL. **Es contenido
+indexado, no lectura íntegra**; su redacción puede variar respecto al
+texto fuente. Se registra aquí para consulta, no como cita literal del
+cuerpo:
+
+- Tomate saladet en algunos mercados públicos y supermercados oscila
+  entre 49 y 70 pesos por kilogramo.
+- En SuperISSSTE el precio reportado es 19.90 pesos por kilo
+  ("19 pesos con 90 centavos").
+- En Walmart el kilo se ofreció a 59 pesos.
+- En Soriana Híper y en Chedraui se vendió a 49 pesos.
+- En el Mercado 2 de Abril, en la Colonia Guerrero, el kilo osciló
+  entre 60 y 70 pesos.
+- Comentarios de empleados de SuperISSSTE sobre alta demanda
+  ("apenas llega, se acaba") y abasto limitado (típicamente miércoles).
+- En la jornada reportada por La Jornada (15-abr-2026), empleados
+  refieren ventas sin tope formal —clientes que adquieren hasta cinco
+  bolsas de un kilo—. El tope de dos bolsas por persona aparece un día
+  después, en El Universal del 16-abr-2026 (apartado 3.4); las dos
+  referencias no se contradicen, marcan momentos distintos.
+
+#### 3.3.3 Vías intentadas y resultado en el cierre de la Etapa 2
+
+| Vía | Resultado |
+|---|---|
+| Fetch directo a la URL canónica | 403 |
+| Fetch al slug `/noticia/2026/04/15/capital/sufre-altibajos-...` | 403 |
+| Fetch al índice de la sección Capital del 15-abr-2026 (`/2026/04/15/capital/index.php`) | 403 |
+| Wayback Machine (`web.archive.org/web/2026/...` y `web/2026*/...`) | Inaccesible desde este cliente (bloqueo de dominio en el fetcher); no se pudo confirmar ni descartar la existencia de capturas |
+| archive.today (`archive.ph/...`) | Inaccesible desde este cliente (bloqueo de dominio) |
+| Búsqueda Google con `"Sufre altibajos el precio del jitomate" Jornada` | Recuperó titular y snippets con redacción consistente |
+| Búsqueda Google con `site:jornada.com.mx "19.90" "70 pesos" jitomate abril 2026` | Recuperó la nota como primer resultado y snippets coherentes con la consulta anterior |
+| Búsqueda Google con `"jitomate" "SuperISSSTE" "19.90" "Walmart" "59" Jornada abril 2026` | Recuperó la nota y snippets que repiten el dato SuperISSSTE 19.90 / Walmart 59 |
+| Búsqueda Google con `Jornada jitomate 15 abril 2026 SuperISSSTE Walmart Soriana Chedraui precios` | Recuperó snippets que añaden Soriana Híper y Chedraui a 49 |
+
+#### 3.3.4 Vías no agotadas (no accesibles desde este cliente)
+
+- Captura íntegra desde **Wayback Machine** y **archive.today**: el
+  fetcher de este cliente está bloqueado para esos dominios. Una consulta
+  manual desde un navegador podría devolver o no capturas; queda como
+  gestión humana.
+- **Hemeroteca de La Jornada / edición impresa en PDF** del 15-abr-2026:
+  no se intentó acceso desde este cliente; queda como gestión humana.
+- **Mesa de redacción del medio** para texto íntegro: gestión humana.
+- **Consulta interactiva del SNIIM** (Sistema Nacional de Información e
+  Integración de Mercados, Secretaría de Economía) para precios diarios
+  de jitomate en la Central de Abasto de Iztapalapa entre el 13 y el 17
+  de abril de 2026: el formulario ASPX requiere sesión y POST; no se
+  pudo completar la consulta desde este cliente. La página estática
+  `economia-sniim.gob.mx/sniimtomate.asp` carga, pero el snapshot
+  visible muestra datos de 2010 y no permite filtrar por la semana de
+  interés. Queda como gestión humana, idealmente vía
+  `info.sniim@economia.gob.mx`.
+
+#### 3.3.5 Búsqueda complementaria de fuente primaria oficial para el mismo dato
+
+Se exploró en paralelo si el rango "19.90 a 70 pesos" del jitomate en
+mercados de CDMX hacia el 15 de abril de 2026 podía anclarse a una
+fuente primaria oficial preferible a la nota periodística:
+
+- **Profeco — "Quién es Quién en los Precios"**: ya descrito en los
+  apartados 2.1 y 2.2. Los boletines estáticos comparan canasta básica
+  y no incluyen SuperISSSTE en su universo de cadenas. La herramienta
+  interactiva https://qqp.profeco.gob.mx/ permitiría una consulta por
+  cadena y localidad pero no genera artefacto estático citable para una
+  fecha precisa. No encontrado un monitoreo Profeco específico de
+  jitomate con corte al 15-abr-2026.
+- **SNIIM — Sistema Nacional de Información e Integración de Mercados
+  (Secretaría de Economía)**: páginas estáticas accesibles
+  (https://www.economia-sniim.gob.mx/nuevo/), pero la consulta de
+  precios diarios pasa por un formulario ASPX que requiere sesión; no
+  se completó la consulta desde este cliente. La página
+  `Precios_de_Hortalizas_en_Mexico.htm` devolvió 404; la página
+  `sniimtomate.asp` carga con datos legados de 2010.
+- **Central de Abasto de la CDMX (FICEDA / sitio institucional)**:
+  https://ficeda.com.mx/precios-al-consumidor/ está listado en
+  buscadores pero no se accedió a una tabla por fecha desde este
+  cliente. Notas que citan datos SNIIM-Iztapalapa refieren precios de
+  21.60 pesos en febrero, 43.8–44 en 23-mar y 62.50 en 20-abr, sin un
+  corte exacto al 15-abr.
+
+**Síntesis del cierre Frente B.** No se localizó una fuente primaria
+oficial (Profeco / SNIIM / Central de Abasto) que registre el rango
+"19.90 a 70 pesos" del jitomate en CDMX con corte al 15 de abril de
+2026 y que sea preferible a la nota periodística de La Jornada de esa
+fecha. Las vías oficiales no agotadas técnicamente desde este cliente
+están enumeradas en el apartado 3.3.4 como gestión humana.
 
 ### 3.4 Verificación periodística en campo — El Universal del 16 de abril de 2026
 
@@ -332,6 +440,7 @@ documento oficial de la respuesta (oficio/folio) no es público.**
 | 2 | Boletines Profeco "Quién es Quién — Primera Necesidad" del 6-abr y 20-abr-2026 | Profeco (PDFs en qqph.profeco.gob.mx) | Confirmado contenido (canasta, NO listan SuperISSSTE) |
 | 3 | Dunia Ludlow Deloya, directora de SuperISSSTE | El Financiero / Ejecentral / cuenta verificada @DuniaLudlow | Confirmado |
 | 3 | Jitomate a 19.90 por bolsa de un kilo en SuperISSSTE | Verificación periodística en campo — El Universal (16-abr-2026); respaldo en Heraldo (17-abr-2026) y La Jornada (15-abr-2026) | Confirmado |
+| 3 | Titular literal de La Jornada del 15-abr-2026 con el rango "19.90 a 70 pesos el kilogramo" en mercados de CDMX | La Jornada, sección Capital, 15-abr-2026 — anclaje vía índice público de buscadores; URL canónica devuelve 403 a fetch directo | Confirmado en titular; cuerpo íntegro pendiente (§3.3) |
 | 3 | Tope de venta: dos bolsas por persona en SuperISSSTE | El Universal (16-abr-2026), verificación en campo | Confirmado |
 | 3 | Calidad/disponibilidad limitada en tienda (jitomates no maduros) | El Universal (16-abr-2026), verificación en campo | Confirmado |
 | 3 | Modelo "sin intermediarios" como estrategia ratificada por la directora | Heraldo (17-abr-2026) | Sugerido |
@@ -344,9 +453,15 @@ documento oficial de la respuesta (oficio/folio) no es público.**
 
 ## Pendientes (no bloqueantes para redactar cronología, pero registrados)
 
-- Recuperar texto íntegro de la nota de La Jornada del 15-abr-2026
-  (403 al momento de la consulta) para validar el rango "19.90 a 70 pesos"
-  contra-cita.
+- **Lectura íntegra del cuerpo de La Jornada del 15-abr-2026.** El
+  titular literal con el rango "19.90 a 70 pesos" quedó anclado vía
+  índice público de buscadores en el cierre de la Etapa 2 (apartado
+  3.3); la URL canónica sigue devolviendo 403 a clientes automatizados
+  y la lectura íntegra del cuerpo de la nota no se completó. Vías que
+  podrían cerrar la lectura íntegra y que no eran accesibles desde el
+  cliente usado: captura en Wayback Machine, captura en archive.today,
+  PDF de la edición impresa en la hemeroteca de La Jornada, consulta a
+  la mesa de redacción del medio.
 - Si el caso lo requiere, revisar la cuenta X de @DuniaLudlow y la
   entrevista "Haz patria y ahorra" en YouTube
   (https://www.youtube.com/watch?v=FORFmUaI5BI) como fuente primaria
@@ -357,6 +472,15 @@ documento oficial de la respuesta (oficio/folio) no es público.**
 - Buscar el monitoreo Profeco específico de jitomate (la "ficha de
   jitomate" suelta) si existe un PDF distinto al de canasta básica que
   incluya SuperISSSTE.
+- **Consulta interactiva del SNIIM (Secretaría de Economía)** para
+  precios diarios de tomate saladet y bola en la Central de Abasto de
+  Iztapalapa, CDMX, entre el 13 y el 17 de abril de 2026. El formulario
+  ASPX de
+  https://www.economia-sniim.gob.mx/nuevo/Home.aspx?opcion=Consultas%2FMercadosNacionales%2FPreciosDeMercado%2FAgricolas%2FConsultaFrutasYHortalizas.aspx%3FSubOpcion%3D4%7C0
+  requiere sesión y POST; no se pudo completar desde el cliente usado en
+  el cierre de la Etapa 2. Si se obtuviera el corte semanal, sería una
+  primaria preferible a la nota periodística para anclar el rango de
+  mercado.
 
 ---
 

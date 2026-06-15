@@ -120,7 +120,9 @@ que estos boletines comparan.
 https://qqph.profeco.gob.mx/storage/attachment/primeran/2026/QQPPRIMERAN_040626.pdf
 https://qqph.profeco.gob.mx/storage/attachment/primeran/2026/QQPPRIMERAN_042026.pdf
 
-### 3. Verificación periodística en campo en tienda SuperISSSTE — 16 de abril de 2026
+### 3. Verificaciones periodísticas en campo
+
+#### El Universal — 16 de abril de 2026 (tienda SuperISSSTE)
 
 Reporteo directo de Karen Vázquez para El Universal (sección Cartera),
 publicado el 16 de abril de 2026 a las 22:53. Tres condiciones
@@ -148,6 +150,43 @@ campo en una cadena específica. La distinción se preserva por método.
 Universal.
 *Fuente:*
 https://www.eluniversal.com.mx/cartera/jitomate-sube-hasta-60-pesos-el-kilo-familias-recurren-a-pure-de-caja-y-ventas-caen-30/
+
+#### La Jornada — 15 de abril de 2026 (mercados y supermercados de la CDMX)
+
+**3.4 — Titular literal con el rango "19.90 a 70 pesos".**
+Nota de la sección Capital de La Jornada del miércoles 15 de abril de
+2026. Titular literal:
+
+> "Sufre altibajos el precio del jitomate; oscila de 19.90 a 70 pesos
+> el kilogramo."
+
+El titular registra el rango observado por el medio en mercados
+públicos y supermercados de la CDMX en la jornada del reporte. El piso
+del rango (19.90) corresponde al precio observado por La Jornada en
+SuperISSSTE; el máximo (70) corresponde al precio observado en mercados
+públicos.
+
+*Etiqueta:* Verificación en campo, atribuida a La Jornada.
+*Fuente:* La Jornada, sección Capital, 15 de abril de 2026.
+https://www.jornada.com.mx/2026/04/15/capital/031n2cap
+
+*Sobre el acceso a la nota.* La URL canónica devuelve 403 a clientes
+automatizados. El titular y la atribución de fecha, sección y URL
+quedaron anclados vía índice público de buscadores con redacción
+consistente entre consultas independientes. La lectura íntegra del
+cuerpo de la nota sigue pendiente y figura en los pendientes heredados
+(apartado 7.1) con el registro completo de las vías intentadas y de las
+vías que no eran accesibles desde el cliente usado.
+
+*Nota obligatoria sobre el 19.90.* En la nota de La Jornada, el 19.90
+es el precio del jitomate en SuperISSSTE constatado por reportería del
+medio, coincidente numéricamente con la verificación de El Universal
+del día siguiente (apartado 3.1) y con el piso del rango nacional
+Profeco de fines de marzo (apartado 2.1). Las tres ocurrencias del
+19.90 son registros distintos —monitoreo periodístico en varios
+establecimientos, observación de campo en una tienda específica, cota
+estadística sobre el mercado nacional— y la distinción se preserva por
+método. La coincidencia numérica no las colapsa.
 
 ### 4. Identidad institucional de SuperISSSTE
 
@@ -212,14 +251,28 @@ Los siguientes huecos están registrados en el inventario de la Etapa 1
 (`FUENTES.md` y `BITACORA.md`) y los hereda la Etapa 2. Este dossier
 los **declara** —no los cierra—. Cerrarlos es trabajo independiente.
 
-**7.1 — Texto íntegro de La Jornada del 15 de abril de 2026.**
-Nota titulada "Sufre altibajos el precio del jitomate; oscila de 19.90
-a 70 pesos el kilogramo". Su URL devolvió 403 al momento de la consulta
-de la Etapa 1. El rango "19.90 a 70 pesos" que reporta queda como
-respaldo secundario por recuperar. Si se obtiene la cita íntegra, puede
-incorporarse al inventario; mientras tanto, este dossier no usa ese
-rango como hecho establecido en la Parte 1.
-URL bajo 403 al consultar:
+**7.1 — Lectura íntegra del cuerpo de La Jornada del 15 de abril de 2026.**
+El titular literal con el rango "19.90 a 70 pesos" quedó anclado en el
+apartado 3.4 vía índice público de buscadores y figura ya en la Parte 1
+como hecho establecido. Lo que sigue pendiente, en sentido estricto, es
+la **lectura íntegra del cuerpo de la nota**: el desglose por
+establecimiento (Walmart, Soriana Híper, Chedraui, Mercado 2 de Abril)
+y las observaciones de empleados que aparecen en snippets indexados por
+buscadores quedaron registradas en `FUENTES.md` §3.3 como contenido
+indexado, **no como lectura íntegra**.
+
+Vías agotadas en el cierre de la Etapa 2 (registro detallado en
+`FUENTES.md` §3.3.3): fetch directo a la URL canónica (403), fetch a
+slugs alternativos (403), fetch al índice de la sección Capital (403),
+varias formulaciones de búsqueda en Google (que sí recuperaron el
+titular y los snippets).
+
+Vías no agotadas técnicamente desde el cliente usado, que quedan como
+gestión humana: captura íntegra desde Wayback Machine y archive.today
+(dominios bloqueados en el fetcher utilizado), hemeroteca / PDF de la
+edición impresa de La Jornada del 15-abr-2026, y consulta a la mesa de
+redacción del medio.
+URL canónica:
 https://www.jornada.com.mx/2026/04/15/capital/031n2cap
 
 **7.2 — Folio PNT de la solicitud de Pamela Cerdeira.**
