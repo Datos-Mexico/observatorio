@@ -1,9 +1,10 @@
 # Caso 001 — Precios del jitomate y contratos del SuperISSSTE
 
-> **Documento de trabajo · rama `feat/etapa-4-contenido-caso-001` · no
-> firmado · pendiente de revisión humana.**
+> **Pieza pública firmada · publicada el 2026-06-15 en
+> [`datosmexico.org/transparencia/001-jitomate-superissste`](https://datosmexico.org/transparencia/001-jitomate-superissste).**
 > Régimen aplicable: `PROTOCOLO-PRENSA.md` en la raíz del repositorio.
-> Fecha de elaboración del borrador: 2026-06-15.
+> Trazabilidad del proceso: bitácoras de las Etapas 1 a 4 en este
+> mismo directorio.
 
 ## Naturaleza de este documento
 
@@ -23,16 +24,6 @@ recibe.
 ---
 
 ## 1. La pregunta
-
-<!--
-  CRÉDITO PENDIENTE.
-  En la entrega final irá aquí el reconocimiento a la periodista que
-  llevó el encargo al observatorio. No se incluye en este borrador;
-  se añadirá tras la entrega del material y con su aprobación
-  explícita, conforme al PROTOCOLO-PRENSA (§ "Comunicación pública
-  del encargo": "No revela comunicación privada con quien preguntó
-  salvo que esa persona lo autorice").
--->
 
 El observatorio recibió, como su primer encargo de prensa, una
 pregunta sobre **los precios del jitomate observados en tiendas

@@ -141,11 +141,11 @@ ejerce recursos públicos.
 
 ## Pendiente vivo
 
-- **Folio PNT de la solicitud de Pamela Cerdeira.** Sin cambios
-  respecto a Etapa 2. No alcanzable por vía técnica desde el
-  cliente; requiere que la autora comparta el folio, o que se
-  solicite a SuperISSSTE el oficio íntegro de la respuesta. Es
-  gestión humana y pertenece a las etapas posteriores del encargo.
+- **Folio PNT de la solicitud.** Sin cambios respecto a Etapa 2.
+  No alcanzable por vía técnica desde el cliente; requiere gestión
+  humana —que la fuente del testimonio comparta el folio o que se
+  solicite a SuperISSSTE el oficio íntegro de la respuesta— y
+  pertenece a las etapas posteriores del encargo.
 
 ## Mapa de lo que viene
 
@@ -157,14 +157,13 @@ ejerce recursos públicos.
   pendiente decidir scope exacto, sujeto destinatario y formulación
   precisa de la pregunta, así como el régimen de visibilidad de la
   solicitud y de su eventual respuesta.
-- **Etapa 5 — materialización pública y entrega a Pamela Cerdeira.**
-  Conforme al `PROTOCOLO-PRENSA.md`, la entrega a la periodista del
-  material consolidado por el observatorio sobre el caso, y la
-  comunicación pública del encargo en la propia voz del
-  observatorio. Las acciones irreversibles sobre lo publicado y
-  sobre el envío a la periodista siguen requiriendo visto bueno
-  humano explícito. Esta restricción no se levanta con el cierre de
-  la Etapa 3.
+- **Etapa 5 — materialización pública y entrega del material.**
+  Conforme al `PROTOCOLO-PRENSA.md`, la entrega del material
+  consolidado por el observatorio sobre el caso, y la comunicación
+  pública del encargo en la propia voz del observatorio. Las
+  acciones irreversibles sobre lo publicado y sobre el envío del
+  material siguen requiriendo visto bueno humano explícito. Esta
+  restricción no se levanta con el cierre de la Etapa 3.
 
 ---
 

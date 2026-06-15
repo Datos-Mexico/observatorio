@@ -72,9 +72,8 @@ es **menudeo al consumidor final en tienda**; el 23.08 SNIIM es
 por SNIIM como Puebla y Sinaloa. La plaza en que SuperISSSTE compra el
 jitomate y el origen del producto que vende **no son necesariamente**
 Iztapalapa, Puebla ni Sinaloa: ese dato forma parte de lo que
-permanece desconocido y es precisamente lo que la solicitud PNT de
-Pamela Cerdeira preguntó y SuperISSSTE negó invocando "secreto
-comercial".
+permanece desconocido y es precisamente lo que la solicitud PNT
+preguntó y SuperISSSTE negó invocando "secreto comercial".
 
 Con esa salvedad nombrada, el contraste se mantiene en todo su peso:
 en los niveles y plazas que sí son públicos, el precio de venta al
@@ -127,16 +126,16 @@ que el agente aplicó: la etiqueta del apartado 4.1 del dossier
 ("Confirmado" no figuraba en las convenciones declaradas; se extendió
 la convención con una quinta etiqueta, "Identificación
 institucional"), y la verificación del slug `2606` de la URL de la
-columna de Cerdeira contra la fecha real de publicación (9 de junio
-de 2026 confirmado por fetch directo; el `2606` es convención interna
-del medio, no fecha).
+columna contra la fecha real de publicación (9 de junio de 2026
+confirmado por fetch directo; el `2606` es convención interna del
+medio, no fecha).
 
 ## Pendiente vivo
 
-- **Folio PNT de la solicitud de Pamela Cerdeira.** No alcanzable por
-  vía técnica. Requiere que la autora comparta el folio, o que se
-  solicite a SuperISSSTE el oficio de respuesta. Es gestión humana.
-  Vive naturalmente en la Etapa 4 o en la Etapa 5 del encargo.
+- **Folio PNT de la solicitud.** No alcanzable por vía técnica.
+  Requiere gestión humana —que la fuente del testimonio comparta el
+  folio o que se solicite a SuperISSSTE el oficio de respuesta—. Vive
+  naturalmente en la Etapa 4 o en la Etapa 5 del encargo.
 
 ## Mapa de lo que viene
 
@@ -145,13 +144,12 @@ del medio, no fecha).
   sustento legal con que SuperISSSTE invocó "secretos comerciales"
   para negar la información solicitada vía PNT, contra la legislación
   vigente de transparencia y acceso a la información pública.
-- **Etapas 4 y 5.** Conforme al plan original del encargo, las
-  gestiones con Pamela Cerdeira para el folio PNT y el envío a la
-  periodista pertenecen a las etapas posteriores. Las acciones
-  irreversibles sobre lo publicado y sobre el envío a la periodista
-  siguen requiriendo visto bueno humano explícito conforme al
-  `PROTOCOLO-PRENSA`. Esta restricción no se levanta con el cierre de
-  la Etapa 2.
+- **Etapas 4 y 5.** Conforme al plan original del encargo, la
+  gestión del folio PNT y el envío del material pertenecen a las
+  etapas posteriores. Las acciones irreversibles sobre lo publicado
+  y sobre el envío del material siguen requiriendo visto bueno
+  humano explícito conforme al `PROTOCOLO-PRENSA`. Esta restricción
+  no se levanta con el cierre de la Etapa 2.
 
 ---
 

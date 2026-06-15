@@ -75,11 +75,10 @@ nueva `/transparencia/`, en rama `feat/seccion-transparencia` —**PR
   futuros, frente a posibles cambios en la mecánica del encargo, y
   frente a una eventual mezcla con piezas que no provengan de un
   encargo de prensa explícito.
-- **Registro impersonal**. La pieza no nombra a la periodista que
-  llevó el encargo al observatorio. El crédito se evalúa después
-  de la entrega del material y con su aprobación explícita,
-  conforme al `PROTOCOLO-PRENSA.md`. Marcador interno en el §1 de
-  la pieza (comentario HTML, no visible en render).
+- **Registro impersonal**. La pieza no nombra a quien llevó el
+  encargo al observatorio. El crédito se evalúa después de la
+  entrega del material y con su aprobación explícita, conforme al
+  `PROTOCOLO-PRENSA.md`.
 - **El caso 001 no entra al corpus `/preguntas`**. El
   `PROTOCOLO-PRENSA.md` lo distingue desde la doctrina: el corpus
   exige reproducibilidad al peso desde microdato oficial; un
@@ -280,12 +279,12 @@ El registro queda anotado por dos razones:
   bitácora** por parte del equipo: revisión, cambio de `status`,
   merge del PR #7, deploy, verificación. Esta es la acción que
   cierra operacionalmente la Etapa 4 en producción.
-- **Etapa 5 — entrega a la periodista y eventual comunicación
+- **Etapa 5 — entrega del material y eventual comunicación
   pública del encargo en la voz del observatorio**, conforme al
   `PROTOCOLO-PRENSA.md`. Las acciones irreversibles sobre lo
-  publicado y sobre el envío a la periodista siguen requiriendo
-  visto bueno humano explícito. Esta restricción no se levanta con
-  el cierre de la Etapa 4.
+  publicado y sobre el envío del material siguen requiriendo visto
+  bueno humano explícito. Esta restricción no se levanta con el
+  cierre de la Etapa 4.
 
 ---
 

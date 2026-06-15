@@ -523,15 +523,14 @@ Los siguientes puntos no quedaron anclados a fuente oficial en esta
 indagación; permanecen fuera del sustento normativo y se nombran
 explícitamente:
 
-- **Fecha exacta de la solicitud PNT** presentada por Pamela Cerdeira
-  a SuperISSSTE y de la respuesta negativa por "secreto comercial".
-  Sin esa fecha, no es posible determinar contra fuente oficial si la
-  tramitación corrió bajo el régimen de la LGTAIP de 2015 (vigente
-  hasta el 20-mar-2025) o de la LGTAIP vigente (publicada el
-  20-mar-2025). El dossier registra que la columna firmada de
-  Cerdeira se publicó el 9 de junio de 2026; el folio PNT y la fecha
-  de la negativa siguen pendientes (apartado 7.1 del dossier; Hito 4
-  de `FUENTES.md`).
+- **Fecha exacta de la solicitud PNT** presentada ante SuperISSSTE y
+  de la respuesta negativa por "secreto comercial". Sin esa fecha, no
+  es posible determinar contra fuente oficial si la tramitación
+  corrió bajo el régimen de la LGTAIP de 2015 (vigente hasta el
+  20-mar-2025) o de la LGTAIP vigente (publicada el 20-mar-2025). El
+  dossier registra que la columna firmada en Opinión 51 se publicó el
+  9 de junio de 2026; el folio PNT y la fecha de la negativa siguen
+  pendientes (apartado 7.1 del dossier; Hito 4 de `FUENTES.md`).
 - **Confirmación de primera mano del texto completo del decreto del
   DOF del 20-mar-2025 (código 5752569)** como segundo respaldo del
   texto consolidado de la Cámara de Diputados (PDF de 64 páginas en
@@ -637,9 +636,9 @@ vigente publicada por la Cámara de Diputados.
 
 ### 7.4 Relevancia LGTAIP vs LFTAIP para el caso 001
 
-La solicitud que Pamela Cerdeira presentó por la Plataforma Nacional
-de Transparencia a SuperISSSTE (apartado 5 del dossier) se rige por
-la ley general (LGTAIP), que como Ley reglamentaria del artículo 6º
+La solicitud presentada por la Plataforma Nacional de Transparencia
+a SuperISSSTE (apartado 5 del dossier) se rige por la ley general
+(LGTAIP), que como Ley reglamentaria del artículo 6º
 constitucional alcanza a todos los sujetos obligados de los tres
 niveles de gobierno (artículo 1 LGTAIP). La **LFTAIP 2016 quedó
 abrogada** por la nueva LGTAIP vigente desde el 20 de marzo de 2025

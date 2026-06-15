@@ -151,9 +151,8 @@ información frente a los sujetos obligados (artículo 1 LGTAIP,
 anclado en `SUSTENTO-NORMATIVO.md` §7.4). El catálogo de obligaciones
 de transparencia del artículo 65 se aplica a esos sujetos obligados.
 
-**Hecho.** En el apartado 5.1 del dossier, la solicitud que Pamela
-Cerdeira presentó por la Plataforma Nacional de Transparencia se
-dirigió a SuperISSSTE. La Plataforma Nacional, que canaliza la
+**Hecho.** En el apartado 5.1 del dossier, la solicitud presentada
+por la Plataforma Nacional de Transparencia se dirigió a SuperISSSTE. La Plataforma Nacional, que canaliza la
 solicitud, es administrada por la Secretaría Anticorrupción y Buen
 Gobierno y opera en términos de la propia LGTAIP (artículo 44,
 anclado en `SUSTENTO-NORMATIVO.md` §1.4). En el apartado 6.1 del
@@ -214,8 +213,9 @@ cuarenta días, ampliables veinte (artículo 148).
 **Hecho.** El dossier no registra constancia pública de que la
 solicitante haya interpuesto recurso de revisión sobre la negativa,
 ni de que la haya descartado. Esa información no aparece en la
-porción de acceso abierto de la columna firmada de Pamela Cerdeira
-del 9 de junio de 2026 (`FUENTES.md` §4.2) ni en la frontera de lo
+porción de acceso abierto de la columna firmada del 9 de junio de
+2026 publicada en Opinión 51 (`FUENTES.md` §4.2) ni en la frontera de
+lo
 desconocido del dossier (apartado 6.1).
 
 ---
@@ -255,8 +255,8 @@ con interés en el caso— perseguirlas con material que aquí no está.
 Las preguntas de la sección 3 quedan abiertas porque el material
 documental que permitiría responderlas con certeza no es accesible a
 la fecha de elaboración de este documento: el folio de la solicitud
-presentada por Pamela Cerdeira y el oficio íntegro de la respuesta de
-SuperISSSTE no son públicos. El dossier los registra como pendiente
+presentada por la Plataforma Nacional de Transparencia y el oficio
+íntegro de la respuesta de SuperISSSTE no son públicos. El dossier los registra como pendiente
 vivo del caso, cuyo cierre pertenece a etapas posteriores del encargo
 y depende de gestión humana, no de vía técnica.
 

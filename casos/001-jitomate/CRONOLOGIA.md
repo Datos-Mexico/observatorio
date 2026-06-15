@@ -49,22 +49,22 @@ tope de dos bolsas por persona, con calidad heterogénea del producto en
 piso de venta. (Medición periodística en campo — El Universal, 16 de
 abril de 2026.)
 
-**Marzo–junio 2026 — La solicitud de transparencia.** La periodista
-Pamela Cerdeira solicita vía Plataforma Nacional de Transparencia a
-SuperISSSTE a quién y a qué precio compra el jitomate. Según su relato
-público, la dependencia primero pidió prórroga y luego negó la
-información invocando "secretos comerciales". (Testimonio — Pamela
-Cerdeira, Opinión 51, 9 de junio de 2026; basado en la porción de acceso
-abierto de la columna.)
+**Marzo–junio 2026 — La solicitud de transparencia.** Una solicitud
+vía Plataforma Nacional de Transparencia preguntó a SuperISSSTE a
+quién y a qué precio compra el jitomate. Según el relato público de
+la solicitante, la dependencia primero pidió prórroga y luego negó
+la información invocando "secretos comerciales". (Testimonio —
+columna firmada en Opinión 51, 9 de junio de 2026; basado en la
+porción de acceso abierto.)
 
 ## Frontera de lo conocido
 
 Permanece no público: la identidad del proveedor y el precio real de
 compra de SuperISSSTE. No existe, a la fecha de este documento, un
 documento oficial que confirme o desmienta el modelo "sin intermediarios"
-con cifras. El folio de la solicitud de Cerdeira no es público; de
-hacerse disponible, la negativa podría anclarse al expediente en lugar de
-al testimonio.
+con cifras. El folio de la solicitud no es público; de hacerse
+disponible, la negativa podría anclarse al expediente en lugar de al
+testimonio.
 
 ---
 

@@ -42,20 +42,20 @@
   La verificación de El Universal hace prescindible esta recuperación
   para sostener la cronología vigente, no para validar el rango
   específico que La Jornada reporta.
-- **Folio PNT de la solicitud de Pamela Cerdeira.** No es público en la
-  porción accesible de su columna. Si aparece, la negativa por "secreto
-  comercial" se anclaría al expediente oficial en lugar de al testimonio
-  firmado.
+- **Folio PNT de la solicitud.** No es público en la porción accesible
+  de la columna. Si aparece, la negativa por "secreto comercial" se
+  anclaría al expediente oficial en lugar de al testimonio firmado.
 
 ## Mapa de lo que viene
 
 - Quedan pendientes las **etapas 2 a 5** del encargo. Su definición
   específica vive fuera de este repositorio.
-- **El envío a Pamela Cerdeira corresponde a la Etapa 5.**
-- **Las acciones irreversibles sobre lo publicado y sobre el envío a
-  Pamela siguen requiriendo visto bueno humano explícito**, conforme al
-  PROTOCOLO-PRENSA. Esta restricción no se levanta por la conclusión de
-  la Etapa 1.
+- **El envío del material conforme al protocolo corresponde a la
+  Etapa 5.**
+- **Las acciones irreversibles sobre lo publicado y sobre el envío
+  del material siguen requiriendo visto bueno humano explícito**,
+  conforme al PROTOCOLO-PRENSA. Esta restricción no se levanta por
+  la conclusión de la Etapa 1.
 
 ---
 
