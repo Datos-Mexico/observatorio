@@ -33,6 +33,9 @@ del registro que lo sostiene:
   atribuida al medio que la levantó.
 - **Testimonio** — relato público y firmado de un tercero identificado,
   con fuente primaria (la columna firmada misma) que lo recoge.
+- **Identificación institucional** — dato fáctico sobre titularidad o
+  denominación oficial de una entidad pública, confirmado en perfiles
+  publicados o registros institucionales.
 
 Cuando el sustento es fuente primaria oficial (versión estenográfica de
 Presidencia, boletín de Profeco en PDF estático, columna firmada de la
@@ -151,7 +154,7 @@ https://www.eluniversal.com.mx/cartera/jitomate-sube-hasta-60-pesos-el-kilo-fami
 **4.1 — Dirección de SuperISSSTE.**
 Dunia Ludlow Deloya es directora de SuperISSSTE.
 
-*Etiqueta:* Confirmado.
+*Etiqueta:* Identificación institucional.
 *Fuentes:*
 https://www.elfinanciero.com.mx/nacional/2025/11/19/quien-es-dunia-ludlow-directora-del-superissste-que-critica-al-prian-y-trabajo-para-ellos/
 https://www.ejecentral.com.mx/nuestro-eje/dunia-ludlow-quien-es-la-exdiputada-del-pri-que-sustituye-a-fernandez-norona-en-el-senado
