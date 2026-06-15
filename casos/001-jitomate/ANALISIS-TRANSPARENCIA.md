@@ -178,13 +178,17 @@ preguntó "a quién y en cuánto le compraba el jitomate" SuperISSSTE.
 **Marco.** Por el artículo 115 de la LGTAIP, el secreto comercial es
 una figura de información confidencial cuya cobertura, en el caso de
 los sujetos obligados, está acotada por la cláusula expresa "cuando
-no involucren el ejercicio de recursos públicos". La clasificación se
-realiza caso por caso, mediante prueba de daño (artículo 102, último
-párrafo; artículo 113). Para motivarla, el sujeto obligado debe
-señalar "las razones, motivos o circunstancias especiales" del caso
-(artículo 106) y aplicar la prueba de daño con sus tres elementos
-(artículo 107). La carga de la prueba sobre la negativa es del sujeto
-obligado (artículo 108).
+no involucren el ejercicio de recursos públicos". El artículo 102
+ordena que los sujetos obligados apliquen las excepciones al derecho
+de acceso "de manera restrictiva y limitada" y "acrediten su
+procedencia". Para motivar la clasificación, el sujeto obligado debe
+señalar "las razones, motivos o circunstancias especiales que
+llevaron al sujeto obligado a concluir que el caso particular se
+ajusta al supuesto previsto por la norma legal invocada como
+fundamento" y "en todo momento, aplicar una prueba de daño"
+(artículo 106). La prueba de daño debe acreditar los tres elementos
+del artículo 107. La carga de la prueba sobre toda negativa de
+acceso es del sujeto obligado (artículo 108).
 
 **Hecho.** Por el apartado 5.2 del dossier, basado en el testimonio
 público y firmado de la solicitante, "el argumento de la negativa
