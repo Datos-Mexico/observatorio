@@ -14,9 +14,11 @@ declaraciones públicas, cada uno etiquetado según su naturaleza:
 
 ## Cronología
 
-**Marzo 2026 — Contexto de alza.** El precio del jitomate sube de forma
-sostenida por escasez estacional. (Medición — INEGI INPC, difusión 9 de
-abril de 2026.)
+**Marzo 2026 — Contexto de alza.** El precio del jitomate registra un
+alza sostenida por factores estacionales y de oferta, reflejada en el
+repunte inflacionario reportado para el periodo. (Contexto — referido
+consistentemente por prensa y autoridades; el dato inflacionario
+específico no se ancla en este documento.)
 
 **28 de marzo de 2026 — Rango nacional Profeco.** Profeco difunde por su
 cuenta oficial rangos nacionales de precio del jitomate: saladet entre

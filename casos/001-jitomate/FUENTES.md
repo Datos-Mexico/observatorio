@@ -203,7 +203,31 @@ Ludlow Deloya**. El cargo se confirma en perfiles publicados:
   metadatos de búsqueda. Pendiente recuperación íntegra para validar
   contra-cita.
 
-### 3.4 Boletines oficiales de SuperISSSTE/ISSSTE en `gob.mx`
+### 3.4 Verificación periodística en campo — El Universal del 16 de abril de 2026
+
+- **URL canónica:** https://www.eluniversal.com.mx/cartera/jitomate-sube-hasta-60-pesos-el-kilo-familias-recurren-a-pure-de-caja-y-ventas-caen-30/
+- **Autora:** Karen Vázquez.
+- **Medio:** El Universal (sección Cartera).
+- **Fecha de publicación:** 16 de abril de 2026, 22:53.
+- **Fecha de consulta:** 14 de junio de 2026.
+- **Etiqueta:** medición periodística en campo, atribuida a El Universal.
+
+Tres condiciones constatadas en tienda SuperISSSTE, transcritas
+literalmente:
+
+- **Precio cercano a 19.90 por bolsa de un kilo:** "se constató que las
+  bolsas de red que se venden de un kilo, tienen un precio de 19.90
+  pesos".
+- **Tope de dos bolsas por persona:** "la venta está limitada a dos
+  bolsas por persona".
+- **Calidad/disponibilidad limitada:** "varios de los jitomates no están
+  maduros".
+
+Esta verificación en campo es independiente de las declaraciones de la
+directora (3.2) y del rango Profeco (Hito 2): es reporteo directo en
+piso de venta.
+
+### 3.5 Boletines oficiales de SuperISSSTE/ISSSTE en `gob.mx`
 
 Se revisaron los boletines de prensa de ISSSTE en `gob.mx/issste/prensa`
 para el periodo relevante. El más cercano que se localizó:
@@ -223,23 +247,24 @@ para el periodo relevante. El más cercano que se localizó:
   abril de 2026 que ratifique el PACIC con la cifra 19.90 y la frase
   textual "sin intermediarios" en boca de Dunia Ludlow.
 
-### 3.5 Síntesis del hito 3
+### 3.6 Síntesis del hito 3
 
 - **Confirmado:** el cargo de Dunia Ludlow Deloya como directora de
   SuperISSSTE.
-- **Sugerido:** la cifra de 19.90 pesos como precio sostenido del
-  jitomate en SuperISSSTE durante abril–mayo de 2026 (coincide entre
-  Heraldo, La Jornada y la atribución a la herramienta Profeco del Hito
-  2).
+- **Confirmado por verificación periodística en campo:** el precio de
+  19.90 pesos por bolsa de un kilo, el tope de dos bolsas por persona y
+  la calidad/disponibilidad limitada en tienda SuperISSSTE, según
+  reporteo directo de El Universal del 16 de abril de 2026.
 - **Sugerido:** el modelo "sin intermediarios" / venta directa con
-  productores como estrategia explícita ratificada por la directora.
+  productores como estrategia explícita ratificada por la directora
+  (Heraldo, 17-abr-2026; La Jornada, 15-abr-2026).
 - **No encontrado en primaria oficial:** boletín ISSSTE/SuperISSSTE de
   `gob.mx` que cite textualmente las declaraciones que la prensa atribuye
-  a Dunia Ludlow sobre la cifra 19.90 y el modelo sin intermediarios. La
-  cuenta personal de X de la directora (@DuniaLudlow) y entrevistas
-  públicas existen pero no se han revisado en este pasaje del trabajo;
-  pueden ser fuente primaria suplementaria si se necesitara robustecer la
-  atribución antes de redactar la cronología.
+  a Dunia Ludlow sobre el modelo sin intermediarios. La cuenta personal
+  de X de la directora (@DuniaLudlow) y entrevistas públicas existen
+  pero no se han revisado en este pasaje del trabajo; pueden ser fuente
+  primaria suplementaria si se necesitara robustecer la atribución de la
+  declaración doctrinal.
 
 ---
 
@@ -306,7 +331,9 @@ documento oficial de la respuesta (oficio/folio) no es público.**
 | 2 | "80–100 pesos en Walmart" como dato Profeco específico de Walmart | — | No encontrado en primaria |
 | 2 | Boletines Profeco "Quién es Quién — Primera Necesidad" del 6-abr y 20-abr-2026 | Profeco (PDFs en qqph.profeco.gob.mx) | Confirmado contenido (canasta, NO listan SuperISSSTE) |
 | 3 | Dunia Ludlow Deloya, directora de SuperISSSTE | El Financiero / Ejecentral / cuenta verificada @DuniaLudlow | Confirmado |
-| 3 | Jitomate a 19.90 en SuperISSSTE durante abril 2026 | Heraldo (17-abr-2026), La Jornada (15-abr-2026) | Sugerido |
+| 3 | Jitomate a 19.90 por bolsa de un kilo en SuperISSSTE | Verificación periodística en campo — El Universal (16-abr-2026); respaldo en Heraldo (17-abr-2026) y La Jornada (15-abr-2026) | Confirmado |
+| 3 | Tope de venta: dos bolsas por persona en SuperISSSTE | El Universal (16-abr-2026), verificación en campo | Confirmado |
+| 3 | Calidad/disponibilidad limitada en tienda (jitomates no maduros) | El Universal (16-abr-2026), verificación en campo | Confirmado |
 | 3 | Modelo "sin intermediarios" como estrategia ratificada por la directora | Heraldo (17-abr-2026) | Sugerido |
 | 3 | Boletín oficial SuperISSSTE/ISSSTE que cite textualmente la cifra 19.90 y el modelo sin intermediarios | — | No encontrado |
 | 4 | Columna de Pamela Cerdeira en Opinión 51, 9-jun-2026 | Opinión 51 (primaria del testimonio) | Confirmado |
