@@ -553,4 +553,103 @@ explícitamente:
 
 ---
 
+## 7. Nota de verificación cruzada de numeración
+
+Por instrucción de la revisión de supervisión recibida tras el cierre
+del PR #10, se ejecutó una verificación cruzada de la numeración de
+cada artículo citado en este documento contra el texto consolidado
+vigente de la LGTAIP publicado por la Cámara de Diputados, con doble
+verificación independiente cuando aplicó. El cruce se motivó por una
+observación de la supervisión que afirmaba que la cláusula del
+secreto comercial transcrita en la sección 3.3 correspondía al
+artículo 116 de la LGTAIP y no al 115, y que el texto con esa
+numeración pertenecería a la Ley Federal (LFTAIP).
+
+### 7.1 Procedimiento
+
+- Re-descarga del PDF consolidado de la LGTAIP vigente desde
+  `https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf` y
+  comparación de hash SHA-256 contra la descarga previa: **idénticos**
+  (`e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b`,
+  749 599 bytes, 64 páginas, indicación "Nueva Ley DOF 20-03-2025 ·
+  Sin reforma").
+- Re-extracción del texto con `pdftotext -layout` y, de forma
+  independiente, con `pdftotext -raw`: dos métodos distintos, mismo
+  archivo.
+- Lectura directa del PDF restringida a las páginas 44 y 45 (donde el
+  texto extraído ubica el Capítulo III "De la Información
+  Confidencial") con `pdftotext -f 44 -l 45 -raw` para descartar
+  artefactos de extracción.
+- Cotejo con la **LFTAIP 2016 abrogada** (PDF de diputados:
+  `https://www.diputados.gob.mx/LeyesBiblio/abro/lftaip/LFTAIP_abro.pdf`,
+  85 páginas) y con la **LGTAIP 2015 abrogada** (PDF de diputados:
+  `https://www.diputados.gob.mx/LeyesBiblio/abro/lgtaip_2015/LGTAIP_abro_20mar25.pdf`,
+  101 páginas).
+
+### 7.2 Resultado del cruce sobre la cláusula del secreto comercial
+
+| Norma | Vigencia | Artículo donde reside la cláusula |
+|---|---|---|
+| LGTAIP **vigente** (DOF 20-mar-2025, código DOF 5752569) | Vigente al 2026-06-15 | **Artículo 115** (Capítulo III, "De la Información Confidencial") |
+| LGTAIP 2015 abrogada (DOF 4-may-2015) | Abrogada por la LGTAIP vigente, transitorio Segundo II | Artículo 115 |
+| LFTAIP 2016 abrogada (DOF 9-may-2016) | Abrogada por la LGTAIP vigente, transitorio Segundo III | Artículo 113 |
+
+Los tres textos contienen el mismo párrafo: "Se considera como
+información confidencial de personas físicas o morales: los secretos
+bancario, fiduciario, industrial, comercial, fiscal, bursátil y postal,
+cuya titularidad corresponda a las personas particulares, sujetos de
+derecho internacional o a sujetos obligados cuando no involucren el
+ejercicio de recursos públicos".
+
+**Conclusión sobre la cláusula del secreto comercial.** La cita del
+documento es **correcta**: en la LGTAIP vigente la cláusula
+corresponde al **artículo 115**, no al 116. El **artículo 116** de la
+LGTAIP vigente regula a los sujetos obligados que se constituyan como
+fideicomitentes, fideicomisarios o fiduciarios; no contiene la
+cláusula del secreto comercial. La numeración del artículo 116
+sugerida por la supervisión no corresponde a la LGTAIP vigente ni a
+sus dos predecesoras consultadas (LGTAIP 2015 y LFTAIP 2016).
+
+### 7.3 Resultado del cruce sobre los demás artículos citados
+
+Se confirmó número por número que el contenido transcrito en este
+documento coincide con el de la LGTAIP vigente. Confirmados en su
+numeración y contenido literal: artículos 3 (definiciones, fracciones
+III y V), 5 (límite a la reserva), 44 (administración de la PNT por
+la SABG), 45 (módulos de la PNT), 65 (obligaciones comunes; fracciones
+X, XXV, XXVI, XXX y XXXI), 102 (clasificación), 103 (momentos de la
+clasificación), 104 (desclasificación y plazos), 106 (motivación de
+la clasificación y prueba de daño), 107 (tres elementos de la prueba
+de daño), 108 (carga de la prueba sobre el sujeto obligado), 109
+(leyenda con fundamento), 112 (causales de reserva), 113 (fundar y
+motivar a través de la prueba de daño), 114 (no podrá invocarse
+reserva en violaciones graves a DDHH o actos de corrupción
+acreditados), **115 (información confidencial — secretos bancario,
+fiduciario, industrial, comercial, fiscal, bursátil y postal)**, 116
+(fideicomitentes / fideicomisarios / fiduciarios), 117 (personas
+usuarias / institución bancaria), 118 (contribuyentes / autoridades
+tributarias), 144 (recurso de revisión, plazo de quince días), 145
+(procedencia, fracciones I a XIII), 148 (plazo de cuarenta días
+ampliables veinte).
+
+Cero discrepancias entre el texto de este documento y la LGTAIP
+vigente publicada por la Cámara de Diputados.
+
+### 7.4 Relevancia LGTAIP vs LFTAIP para el caso 001
+
+La solicitud que Pamela Cerdeira presentó por la Plataforma Nacional
+de Transparencia a SuperISSSTE (apartado 5 del dossier) se rige por
+la ley general (LGTAIP), que como Ley reglamentaria del artículo 6º
+constitucional alcanza a todos los sujetos obligados de los tres
+niveles de gobierno (artículo 1 LGTAIP). La **LFTAIP 2016 quedó
+abrogada** por la nueva LGTAIP vigente desde el 20 de marzo de 2025
+(transitorio Segundo, fracción III, transcrito en la sección 1.2 de
+este documento). Por lo tanto, **el régimen vigente sobre el caso es
+la LGTAIP** —y, supletoriamente, en cuanto persista, los actos
+jurídicos del extinto INAI surten efectos por el transitorio Quinto
+del decreto constitucional (DOF 5745905)—; no hay ley federal de
+transparencia paralela vigente a la que dirigir el análisis.
+
+---
+
 *Observatorio Datos México · datosmexico.org*
