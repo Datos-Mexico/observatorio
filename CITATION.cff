@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si citas este observatorio o su corpus, por favor usa el siguiente formato. Para la cita específica de un artículo del corpus, consulta también CITACION.md."
+title: "Observatorio Datos México"
+abstract: >-
+  Observatorio académico de datos públicos mexicanos. Sede de los artefactos
+  doctrinales que articulan su identidad académica, base operacional del
+  corpus pregunta-respuesta con sustento al peso desde microdato oficial, y
+  registro auditable de los encargos de prensa atendidos bajo protocolo
+  público.
+authors:
+  - name: "Observatorio Datos México"
+    website: "https://datosmexico.org"
+url: "https://datosmexico.org"
+repository-code: "https://github.com/Datos-Mexico/observatorio"
+license: CC-BY-4.0
+type: dataset
+keywords:
+  - datos públicos
+  - México
+  - transparencia
+  - microdato oficial
+  - observatorio académico
+  - encargos de prensa
