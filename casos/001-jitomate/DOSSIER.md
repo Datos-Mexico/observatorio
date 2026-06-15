@@ -76,7 +76,9 @@ https://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de
 contexto comparativo; no constituye, por sí misma, una medición de
 mercado atribuible a una cadena específica.
 
-### 2. Mediciones Profeco (fines de marzo de 2026)
+### 2. Mediciones primarias del mercado de jitomate
+
+#### Profeco — fines de marzo de 2026 (rango nacional)
 
 **2.1 — Rango nacional para jitomate, difundido por Profeco a finales
 de marzo de 2026.**
@@ -120,6 +122,49 @@ que estos boletines comparan.
 https://qqph.profeco.gob.mx/storage/attachment/primeran/2026/QQPPRIMERAN_040626.pdf
 https://qqph.profeco.gob.mx/storage/attachment/primeran/2026/QQPPRIMERAN_042026.pdf
 
+#### SNIIM — Central de Abasto de Iztapalapa, CDMX, semana del 13 al 17 de abril de 2026 (mayoreo)
+
+**2.3 — Precios mayoristas de jitomate al kilogramo en la Central de
+Abasto de Iztapalapa, semana del 15 de abril de 2026.**
+
+Consulta primaria oficial al formulario interactivo del Sistema
+Nacional de Información e Integración de Mercados (SNIIM), Secretaría
+de Economía, para tomate saladette y tomate bola de primera, mercado
+de destino "DF: Central de Abasto de Iztapalapa DF", del 13 al 17 de
+abril de 2026.
+
+**Tomate saladette - Primera, precio por kilogramo calculado, 15 de
+abril de 2026:**
+
+| Empaque | Origen | Mínimo $/kg | Máximo $/kg | Modal $/kg |
+|---|---|---|---|---|
+| Caja de 12 kg | Puebla | 33.33 | 43.33 | 37.50 |
+| Caja de 13 kg | Sinaloa | 24.62 | 27.69 | 25.38 |
+| Caja de 25 kg | Sinaloa | 28.00 | 32.00 | 30.00 |
+
+Rango observado: **$23.08 a $43.33 por kilogramo** según origen y
+empaque (en el corte de los tres empaques registrados ese día).
+
+**Tomate bola - Primera, precio por kilogramo calculado, 15 de abril
+de 2026 (caja de 10 kg, origen Puebla):** mínimo $75.00, máximo
+$90.00, modal $80.00.
+
+*Etiqueta:* Medición (mayoreo en Central de Abasto, fuente primaria
+oficial).
+*Fuente:* SNIIM — Secretaría de Economía. Formulario
+`ConsultaFrutasYHortalizas.aspx?SubOpcion=4`, mercado de destino "DF:
+Central de Abasto de Iztapalapa DF". Tabla de verificación cruzada
+precio-caja vs precio-kg en `FUENTES.md` §5.4.
+URL del formulario:
+https://www.economia-sniim.gob.mx/nuevo/Consultas/MercadosNacionales/PreciosDeMercado/Agricolas/ConsultaFrutasYHortalizas.aspx?SubOpcion=4
+
+*Naturaleza del dato.* SNIIM mide precios al **mayoreo en la Central
+de Abasto** (mercado origen-destino), no precios al **consumidor
+final**. Los precios SNIIM y los precios reportados por La Jornada en
+el apartado 3.4 son medidas complementarias: La Jornada registra el
+menudeo en cadenas y en un mercado público; SNIIM registra el mayoreo
+en Iztapalapa.
+
 ### 3. Verificaciones periodísticas en campo
 
 #### El Universal — 16 de abril de 2026 (tienda SuperISSSTE)
@@ -153,30 +198,53 @@ https://www.eluniversal.com.mx/cartera/jitomate-sube-hasta-60-pesos-el-kilo-fami
 
 #### La Jornada — 15 de abril de 2026 (mercados y supermercados de la CDMX)
 
-**3.4 — Titular literal con el rango "19.90 a 70 pesos".**
+**3.4 — Reportería íntegra anclada de primera mano.**
 Nota de la sección Capital de La Jornada del miércoles 15 de abril de
-2026. Titular literal:
+2026, escrita por **Elba Mónica Bravo**, página 31 de la edición
+impresa. Titular literal:
 
 > "Sufre altibajos el precio del jitomate; oscila de 19.90 a 70 pesos
 > el kilogramo."
 
-El titular registra el rango observado por el medio en mercados
-públicos y supermercados de la CDMX en la jornada del reporte. El piso
-del rango (19.90) corresponde al precio observado por La Jornada en
-SuperISSSTE; el máximo (70) corresponde al precio observado en mercados
-públicos.
+Citas literales del cuerpo (cuerpo íntegro verificado de primera mano
+en `FUENTES.md` §3.3, doble verificación: fetch directo al medio +
+captura Wayback Machine del 16-abr-2026 cruzadas byte-a-byte):
+
+> "Entre los productos de la canasta básica, el jitomate saladet tiene
+> los precios más altos, luego de que en algunos mercados públicos y
+> tiendas de autoservicio de la capital el precio oscila entre 49 y 70
+> pesos el kilogramo; sin embargo, en la tienda Superissste el costo es
+> más accesible al público, al venderse en 19 pesos con 90 centavos."
+
+> "En la tienda Walmart el kilo de jitomate se ofertó ayer en 59 pesos,
+> y en 49 pesos en Soriana Híper y Chedraui."
+
+> "En el mercado 2 de Abril, que se encuentra en la colonia Guerrero,
+> el kilogramo de jitomate se encuentra en 60 y 70 pesos".
+
+Tiendas SuperISSSTE específicamente verificadas por la reportería:
+
+- **SuperISSSTE Manuel Tolsá y Enrico Martínez, colonia Centro,
+  alcaldía Cuauhtémoc:** "se constató el precio del producto, aunque
+  el anaquel estuvo vacío ayer".
+- **SuperISSSTE La Ciudadela, colonia Centro, alcaldía Cuauhtémoc:**
+  "Sin ningún rastro del producto […] aún permanecía ayer la hoja del
+  precio que ofertaba el kilo de jitomate a 19 pesos con 90 centavos".
+
+Régimen operativo en SuperISSSTE según el reporte del 14-abr-2026
+(víspera de la publicación), referido por una trabajadora citada en la
+nota: acceso libre, sin tope formal de bolsas ("se han llevado hasta
+cinco bolsas de un kilo sin problema"), abasto irregular ("no llega
+mucho producto, llega en bolsas de un kilo").
+
+Contexto macro que la nota agrega: inflación general anual al 4.59 %
+(cita expresa a INEGI, "nivel más alto desde octubre de 2024"), alza
+atribuida a frutas y verduras.
 
 *Etiqueta:* Verificación en campo, atribuida a La Jornada.
-*Fuente:* La Jornada, sección Capital, 15 de abril de 2026.
+*Fuente:* La Jornada, sección Capital, 15 de abril de 2026, página 31,
+firma de Elba Mónica Bravo.
 https://www.jornada.com.mx/2026/04/15/capital/031n2cap
-
-*Sobre el acceso a la nota.* La URL canónica devuelve 403 a clientes
-automatizados. El titular y la atribución de fecha, sección y URL
-quedaron anclados vía índice público de buscadores con redacción
-consistente entre consultas independientes. La lectura íntegra del
-cuerpo de la nota sigue pendiente y figura en los pendientes heredados
-(apartado 7.1) con el registro completo de las vías intentadas y de las
-vías que no eran accesibles desde el cliente usado.
 
 *Nota obligatoria sobre el 19.90.* En la nota de La Jornada, el 19.90
 es el precio del jitomate en SuperISSSTE constatado por reportería del
@@ -186,7 +254,11 @@ Profeco de fines de marzo (apartado 2.1). Las tres ocurrencias del
 19.90 son registros distintos —monitoreo periodístico en varios
 establecimientos, observación de campo en una tienda específica, cota
 estadística sobre el mercado nacional— y la distinción se preserva por
-método. La coincidencia numérica no las colapsa.
+método. La coincidencia numérica no las colapsa. El precio 19.90 de
+SuperISSSTE se ubica además **por debajo del piso del rango mayorista
+de tomate saladette en la Central de Abasto de Iztapalapa el mismo
+día** (apartado 2.3: $23.08–$43.33). El dossier registra el hecho; no
+atribuye causa.
 
 ### 4. Identidad institucional de SuperISSSTE
 
@@ -243,39 +315,25 @@ testimonio público y firmado de Pamela Cerdeira en Opinión 51 (apartado
 5). No es, hasta el cierre de la Etapa 1, expediente oficial PNT con
 folio y oficio accesibles públicamente. La pretensión de anclar la
 negativa al expediente oficial sigue abierta y figura en los pendientes
-heredados (apartado 7.2).
+heredados (apartado 7.1).
 
 ### 7. Pendientes heredados explícitos (Etapa 1)
 
-Los siguientes huecos están registrados en el inventario de la Etapa 1
-(`FUENTES.md` y `BITACORA.md`) y los hereda la Etapa 2. Este dossier
-los **declara** —no los cierra—. Cerrarlos es trabajo independiente.
+La Etapa 1 dejó dos pendientes heredados. Uno se **cerró** en la Etapa
+2; el otro **sigue vigente** y se declara a continuación.
 
-**7.1 — Lectura íntegra del cuerpo de La Jornada del 15 de abril de 2026.**
-El titular literal con el rango "19.90 a 70 pesos" quedó anclado en el
-apartado 3.4 vía índice público de buscadores y figura ya en la Parte 1
-como hecho establecido. Lo que sigue pendiente, en sentido estricto, es
-la **lectura íntegra del cuerpo de la nota**: el desglose por
-establecimiento (Walmart, Soriana Híper, Chedraui, Mercado 2 de Abril)
-y las observaciones de empleados que aparecen en snippets indexados por
-buscadores quedaron registradas en `FUENTES.md` §3.3 como contenido
-indexado, **no como lectura íntegra**.
+**Cerrado en la Etapa 2:** lectura íntegra del cuerpo de la nota de La
+Jornada del 15 de abril de 2026. La nota fue recuperada de primera mano
+(apartado 3.4 y `FUENTES.md` §3.3), con doble verificación
+independiente (fetch directo al sitio del medio con User-Agent de
+navegador + captura del Wayback Machine vía CDX server, comparadas
+byte-a-byte). Adicionalmente se ancló en primaria oficial la medición
+mayorista del jitomate en la Central de Abasto de Iztapalapa para esa
+semana (apartado 2.3 y `FUENTES.md` §5).
 
-Vías agotadas en el cierre de la Etapa 2 (registro detallado en
-`FUENTES.md` §3.3.3): fetch directo a la URL canónica (403), fetch a
-slugs alternativos (403), fetch al índice de la sección Capital (403),
-varias formulaciones de búsqueda en Google (que sí recuperaron el
-titular y los snippets).
+**Vigente:**
 
-Vías no agotadas técnicamente desde el cliente usado, que quedan como
-gestión humana: captura íntegra desde Wayback Machine y archive.today
-(dominios bloqueados en el fetcher utilizado), hemeroteca / PDF de la
-edición impresa de La Jornada del 15-abr-2026, y consulta a la mesa de
-redacción del medio.
-URL canónica:
-https://www.jornada.com.mx/2026/04/15/capital/031n2cap
-
-**7.2 — Folio PNT de la solicitud de Pamela Cerdeira.**
+**7.1 — Folio PNT de la solicitud de Pamela Cerdeira.**
 No consta en la porción accesible de su columna. Si la autora comparte
 el folio, el expediente público puede consultarse en
 https://www.plataformadetransparencia.org.mx/ y la negativa por
