@@ -62,15 +62,23 @@ tan profundo el lector quiera entrar.
   cierre de la Etapa 4 (redacción y publicación de la pieza
   pública).
 
-### 5. El incidente de publicación y su cierre
+### 5. Incidentes de infraestructura y sus cierres
 
 - **[`INCIDENTE-Y-ESTADO.md`](INCIDENTE-Y-ESTADO.md)** — registro
-  del incidente de producción del 2026-06-15 (el primer intento de
+  del primer incidente de producción del 2026-06-15 (el intento de
   publicación con un loader de filesystem que fallaba en el runtime
   de Cloudflare Workers, el revert, el fix con el patrón sano, y la
-  republicación verificada). Útil para entender cómo el observatorio
-  resuelve un incidente de su propia infraestructura sin perder
-  trazabilidad académica del caso.
+  republicación verificada).
+- **[`INCIDENTE-RENDIMIENTO.md`](INCIDENTE-RENDIMIENTO.md)** —
+  registro del segundo incidente: `Worker exceeded CPU time limit`
+  (Error 1102) en producción tras la entrada de la navegación, y su
+  cura de fondo —pre-parseo de markdown en build, sanitización
+  como salvaguarda, y `prefetch={false}` en el nav—. Deja nombrada
+  la deuda pendiente de `<Visualization>` para una fase posterior.
+
+Ambos documentos son útiles para entender cómo el observatorio
+resuelve un incidente de su propia infraestructura sin perder
+trazabilidad académica del caso.
 
 ---
 
