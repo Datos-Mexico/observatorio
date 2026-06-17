@@ -2,17 +2,21 @@
 slug: cuantos-recursos-administra-el-sar-mexicano-actualmente
 id_canonico: 01KT3N2DTCCF1BZ4C3NCXC253Q
 pregunta: ¿Cuántos recursos administra el SAR mexicano actualmente?
-version: 1
+version: 2
 fecha_creacion: 2026-06-02
 fecha_ultima_actualizacion: 2026-06-16
 
 tipo_temporal: puente
 sensibilidad: directa
-estado: pre-firma
-sla_dias_restantes: 7
+estado: firmada
+sla_dias_restantes: null
 
-revisor: null
-fecha_firma: null
+revisor: Observatorio Datos México
+fecha_firma: "2026-06-16"
+
+errata_referencia:
+  version_anterior_url: https://github.com/Datos-Mexico/observatorio/blob/1d7d06b/preguntas/cuantos-recursos-administra-el-sar-mexicano-actualmente.md
+  motivo_errata: 'Regeneración del corte (junio 2025 → mayo 2026) e incorporación del Fondo de Pensiones para el Bienestar como entidad del agregado del sistema. La versión 1 reportaba once AFOREs activas para el corte de junio 2025 ($10,127,978.75 millones MXN); la versión 2 reporta diez Afores activas y el Fondo de Pensiones para el Bienestar para el corte de mayo 2026 ($11,815,973.4 millones MXN). La metodología de lectura (agregado sar_total con verificación por sumatoria) no cambia.'
 
 datasets:
   - nombre: CONSAR
