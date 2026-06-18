@@ -1,0 +1,36 @@
+name: validate-corpus
+
+# Valida el frontmatter de cada artículo en preguntas/*.md contra el schema
+# que el sitio canónico (datos-mexico-site) ejecuta en SSG.
+#
+# Bloquea PRs cuyo corpus rompería el build del sitio. Existe porque PR #21
+# introdujo un caveat con `: ` sin comillas que YAML parseó como mapping,
+# tumbando el SSG.
+
+on:
+  pull_request:
+    paths:
+      - "preguntas/**"
+      - "scripts/validate-corpus.mjs"
+      - "package.json"
+      - "package-lock.json"
+      - ".github/workflows/validate-corpus.yml"
+  push:
+    branches: [main]
+    paths:
+      - "preguntas/**"
+      - "scripts/validate-corpus.mjs"
+      - "package.json"
+      - "package-lock.json"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+      - run: npm ci
+      - run: npm run validate
