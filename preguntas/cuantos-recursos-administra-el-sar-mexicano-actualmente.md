@@ -4,7 +4,7 @@ id_canonico: 01KT3N2DTCCF1BZ4C3NCXC253Q
 pregunta: ¿Cuántos recursos administra el SAR mexicano actualmente?
 version: 2
 fecha_creacion: 2026-06-02
-fecha_ultima_actualizacion: 2026-06-16
+fecha_ultima_actualizacion: 2026-06-17
 
 tipo_temporal: puente
 sensibilidad: directa
@@ -30,6 +30,7 @@ caveats:
   - La CONSAR publica los recursos administrados con un rezago natural sobre la fecha de corte. El observatorio refleja la última publicación disponible al momento del cómputo; la marca temporal `fecha_version_dataset` permite verificar la vigencia exacta de la cifra reportada.
   - La cifra es un agregado nacional. El Sistema de Ahorro para el Retiro es un sistema federal y la CONSAR no publica desagregación por entidad federativa.
   - La CONSAR marca el corte de mayo de 2026 como "Cifras preliminares" en la nota al pie del cuadro fuente. Las cifras preliminares pueden ser revisadas por la CONSAR en publicaciones posteriores; ante una revisión que afecte la respuesta de este artículo, el observatorio publica errata visible siguiendo su política de transparencia sobre el error.
+  - La CONSAR mantiene dos cadencias de publicación de la misma serie de recursos administrados. El cuadro SISET citado en este artículo (Series.aspx?cd=59) publica el agregado con cadencia mensual, aproximadamente quince días después del cierre del mes, y es la cadencia en la que está disponible el corte de mayo de 2026. El repositorio de datos abiertos de CONSAR (repodatos.atdt.gob.mx) consolida la misma serie con mayor rezago; al momento del cómputo de esta respuesta, ese repositorio publicaba hasta el corte del 27 de febrero de 2026 con datos hasta diciembre de 2025 ($10,996,258.9 millones MXN). Ambas son fuentes oficiales y reflejan la misma serie en distintos puntos de su ciclo de publicación: el SISET adelanta el corte mensual, el repositorio de datos abiertos lo consolida más tarde.
 
 tags_tema_principal: pensiones
 tags_tema_secundario:
@@ -94,6 +95,7 @@ El cómputo es reproducible: cualquier investigador puede recuperar las mismas c
 - La CONSAR publica los recursos administrados con un rezago natural sobre la fecha de corte. El dato más reciente disponible al momento del cómputo corresponde al cierre de mayo de 2026. La marca temporal `fecha_version_dataset` en el frontmatter de este artículo declara explícitamente la fecha del corte; la marca `fecha_computo_respuesta` declara el momento en que se ejecutó el cómputo de la respuesta.
 - La cifra es un agregado nacional. El SAR es un sistema federal y la CONSAR no publica desagregación de los recursos administrados por entidad federativa.
 - La CONSAR marca el corte de mayo de 2026 como "Cifras preliminares" en la nota al pie del cuadro fuente. Las cifras preliminares pueden ser revisadas por la CONSAR en publicaciones posteriores; ante una revisión que afecte la respuesta de este artículo, el observatorio publica errata visible siguiendo su política de transparencia sobre el error.
+- La CONSAR mantiene dos cadencias de publicación de la misma serie de recursos administrados. El cuadro SISET citado en este artículo (Series.aspx?cd=59) publica el agregado con cadencia mensual, aproximadamente quince días después del cierre del mes, y es la cadencia en la que está disponible el corte de mayo de 2026. El repositorio de datos abiertos de CONSAR (repodatos.atdt.gob.mx) consolida la misma serie con mayor rezago; al momento del cómputo de esta respuesta, ese repositorio publicaba hasta el corte del 27 de febrero de 2026 con datos hasta diciembre de 2025 ($10,996,258.9 millones MXN). Ambas son fuentes oficiales y reflejan la misma serie en distintos puntos de su ciclo de publicación: el SISET adelanta el corte mensual, el repositorio de datos abiertos lo consolida más tarde.
 
 ## Referencias
 
