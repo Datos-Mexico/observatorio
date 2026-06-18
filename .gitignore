@@ -5,3 +5,6 @@ Thumbs.db
 *~
 .idea/
 .vscode/
+
+# Validador CI del corpus — package.json y package-lock.json sí son tracked.
+node_modules/

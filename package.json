@@ -1,0 +1,16 @@
+{
+  "name": "datos-mexico-observatorio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sede doctrinal del Observatorio Datos México y base operacional del corpus pregunta-respuesta. Esta declaración npm existe únicamente para correr el validador de frontmatter del corpus en CI; el repo es de doctrina + markdown, no un paquete distribuible.",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-corpus.mjs"
+  },
+  "devDependencies": {
+    "gray-matter": "^4.0.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
