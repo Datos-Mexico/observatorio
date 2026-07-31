@@ -69,7 +69,7 @@ mexicana.
   archivo está presente). Coexiste con `CITACION.md` —el `.md` es la
   versión narrativa española, el `.cff` el estándar de máquina—.
 
-- [`CLAUDE.md`](CLAUDE.md). Contexto operacional persistente para
+- [`OPERACION.md`](OPERACION.md). Contexto operacional persistente para
   las routines institucionales del observatorio que operan sobre
   este repositorio. Contratos funcionales atemporales de las
   routines de generación y planificación, reglas duras invariantes,
@@ -87,7 +87,7 @@ observatorio/
 ├── SCHEMA.md                     (contrato estructural del corpus)
 ├── CITACION.md                   (formato canónico de citación, narrativo)
 ├── CITATION.cff                  (formato de citación legible por máquina)
-├── CLAUDE.md                     (contexto operacional de routines)
+├── OPERACION.md                  (contexto operacional de routines)
 ├── README.md
 ├── LICENSE                       (CC BY 4.0)
 ├── casos/                        (encargos de prensa atendidos; un
