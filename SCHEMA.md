@@ -422,7 +422,7 @@ coordinada de:
 - este documento
 - las plantillas en `templates/`
 - los artículos existentes del corpus que adopten los campos nuevos
-- la documentación operacional en `CLAUDE.md`
+- la documentación operacional en `OPERACION.md`
 - el sitio canónico, que consume este schema como contrato de
   ingesta
 

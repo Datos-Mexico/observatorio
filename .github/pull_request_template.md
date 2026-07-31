@@ -20,7 +20,7 @@ ARQUITECTURA-ARTICULOS.md §9. -->
 
 <!-- El régimen del repositorio exige que todo cambio sustantivo pase por revisión
 humana de un miembro del equipo académico, conforme a MANIFESTO.md §7 y
-CLAUDE.md §3. -->
+OPERACION.md §3. -->
 
 - [ ] Cambio revisado y aprobado por miembro del equipo académico.
 - [ ] Sin contradicción con MANIFESTO.md, ARQUITECTURA-ARTICULOS.md, SCHEMA.md

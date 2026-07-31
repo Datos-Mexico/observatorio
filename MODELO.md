@@ -285,7 +285,7 @@ institucionalidad del proyecto mientras se construye.
 - La doctrina académica (`MANIFESTO.md`) y su gobernanza editorial
   (`ARQUITECTURA-ARTICULOS.md`, `SCHEMA.md`, `CITACION.md`,
   `PROTOCOLO-PRENSA.md`).
-- El régimen operacional del corpus (`CLAUDE.md` del repositorio
+- El régimen operacional del corpus (`OPERACION.md` del repositorio
   institucional).
 - Los compromisos públicos de gobernanza visibles en la sección
   Gobernanza del sitio canónico.
