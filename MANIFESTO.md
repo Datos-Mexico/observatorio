@@ -239,6 +239,14 @@ La identidad del observatorio, su catálogo de datos, sus respuestas indexadas y
 publicaciones académicas seguirán siendo accesibles públicamente sin restricción más
 allá de la atribución académica habitual.
 
+La frescura de los datos que el observatorio entrega se declara, se mide y se presume
+bajo el Protocolo DPM · Datos Por Minuto (datosmexico.org/dpm; especificación en
+github.com/Datos-Mexico/datos-mexico-dpm): tres clases por reloj, una etiqueta que se
+retira sola cuando el reloj deja de cumplirse y un pulso que es la única fuente de las
+cifras del protocolo. El observatorio se somete a ese pulso como cualquier otro sistema
+adherido, con los mismos relojes, la misma comprobación pública y la misma regla: lo que
+no midió, no lo anuncia.
+
 ---
 
 ## 10. Sobre este documento

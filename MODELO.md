@@ -337,6 +337,13 @@ rige cualquier decisión institucional.
    §4). No se revela comunicación privada con quien encargó, salvo
    autorización expresa.
 
+**Frescura declarada.** El observatorio publica cada cuánto se renuevan los datos que
+entrega bajo el Protocolo DPM · Datos Por Minuto (datosmexico.org/dpm), y se somete a su
+pulso como cualquier sistema adherido. Ninguna cifra de frescura se enuncia si no la
+produjo el pulso; la clase de un dato la fija el reloj, no el observatorio.
+
+---
+
 ---
 
 ## 8. Sobre este documento
